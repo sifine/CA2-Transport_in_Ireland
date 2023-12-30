@@ -2,10 +2,10 @@ Category,Date,Review Text,Score,Year,New Score
 France,2023-12-01,Held up by security thugs,1.0,2023,0
 France,2023-11-01,Paris metro,5.0,2023,2
 France,2023-11-01,Robbed by 3 guys,1.0,2023,0
-France,2023-11-01,Don’t rely on metro service people. They don’t help but get you in trouble.,1.0,2023,2
+France,2023-11-01,Don’t rely on metro service people. They don’t help but get you in trouble.,1.0,2023,0
 France,2023-10-01,Do not pay the RATP fine,1.0,2023,0
 France,2023-11-01,Ticket not validated properly and fine,1.0,2023,0
-France,2023-11-01,Pickpocket and fake help,3.0,2023,2
+France,2023-11-01,Pickpocket and fake help,3.0,2023,0
 France,2023-11-01,Cheap and efficient way to get around Paris,5.0,2023,2
 France,2023-11-01,People false metro Paris robbed me,1.0,2023,0
 France,2023-10-01,Cheap travel in Paris,3.0,2023,2
@@ -25,10 +25,10 @@ France,2023-10-01,Aggressive,1.0,2023,0
 France,2023-09-01,Ticket office went above and beyond,5.0,2023,2
 France,2023-07-01,Be wary of turnstyles,3.0,2023,1
 France,2022-10-01,"Horrible, traumatic, beware",1.0,2022,0
-France,2023-09-01,Trestle unfairly by metro Paris,1.0,2023,0
+France,2023-09-01,Trestle unfairly by metro Paris,1.0,2023,2
 France,2023-09-01,Great system!,5.0,2023,2
 France,2023-08-01,Be careful of train workers help!!,1.0,2023,0
-France,2023-07-01,Odd,1.0,2023,0
+France,2023-07-01,Odd,1.0,2023,2
 France,2023-08-01,Beware Paris Metro and fine print!!,1.0,2023,0
 France,2023-08-01,WORST EXPERIENCE EVER AND PARIS SUCKS,1.0,2023,0
 France,2023-07-01,Easy to navigate,5.0,2023,2
@@ -43,14 +43,14 @@ France,2023-07-01,Paris Metro tourist scam,1.0,2023,0
 France,2023-07-01,Better than the London Underground,5.0,2023,2
 France,2023-05-01,"Time and again, beware of pickpockets..",1.0,2023,0
 France,2023-06-01,The Metro is fine!,5.0,2023,0
-France,2023-06-01,Outdated payment system,3.0,2023,0
+France,2023-06-01,Outdated payment system,3.0,2023,1
 France,2023-06-01,A scam Champ de Mars/Tour Eiffel,1.0,2023,0
 France,2023-06-01,Ticket inspectors - Invalid ticket !!!!,1.0,2023,0
 France,2023-06-01,Brilliant fast System,5.0,2023,2
 France,2023-05-01,Paris Metro Thieves and Pick Pockets,1.0,2023,0
 France,2023-05-01,"Paris metro is a mess, BEWARE,",1.0,2023,0
-France,2023-05-01,CDG airport to Gard du Nord station in Paris is only 2.1 euro,5.0,2023,0
-France,2023-05-01,Cheaper Mobilis Tickets WATCH OUT,3.0,2023,1
+France,2023-05-01,CDG airport to Gard du Nord station in Paris is only 2.1 euro,5.0,2023,2
+France,2023-05-01,Cheaper Mobilis Tickets WATCH OUT,3.0,2023,2
 France,2023-05-01,Paris Metro Scam with Thugs,1.0,2023,0
 France,2023-05-01,Great transport system but be aware,5.0,2023,2
 France,2023-04-01,Be careful when in Paris’ public transport!,3.0,2023,2
@@ -61,7 +61,7 @@ France,2022-05-01,Don't Use Metro,1.0,2022,2
 France,2023-04-01,Watch out for Pickpockets !! We had a really scary experience,1.0,2023,0
 France,2023-04-01,Decently Nice,5.0,2023,2
 France,2023-04-01,Paris metro running extortion scam,1.0,2023,0
-France,2023-02-01,Violence on Overcrowded Public Transport in Paris,1.0,2023,0
+France,2023-02-01,Violence on Overcrowded Public Transport in Paris,1.0,2023,2
 France,2023-03-01,The metro is confusing and poorly organised for tourists.,1.0,2023,0
 France,2023-03-01,Not worth your time,1.0,2023,2
 France,2023-02-01,City uses malfunctioning turnstiles to fill their pockets,1.0,2023,0
@@ -107,16 +107,16 @@ France,2022-07-01,tickets stop working,1.0,2022,0
 France,2022-07-01,Metro fines,1.0,2022,0
 France,2022-07-01,Sadly an disappointing and horrible experience,1.0,2022,0
 France,2022-07-01,"Ticket Barriers are unreliable, but you will pay the price.",1.0,2022,0
-France,2022-05-01,Beloved Public Transit,5.0,2022,0
+France,2022-05-01,Beloved Public Transit,5.0,2022,2
 France,2022-07-01,"Metro is ok, customer service is awful",1.0,2022,0
 France,2022-06-01,Not good for older people,3.0,2022,1
 France,2022-06-01,Paris Metro - SHAME of France and the French people,1.0,2022,0
-France,2022-06-01,The multi-day pass is a scam!,1.0,2022,0
-France,2022-06-01,A word of warning for families...,5.0,2022,0
+France,2022-06-01,The multi-day pass is a scam!,1.0,2022,2
+France,2022-06-01,A word of warning for families...,5.0,2022,2
 France,2022-05-01,Great Means of Transportation,5.0,2022,2
 France,2021-07-01,Not a safe way to travel.,5.0,2021,2
 France,2022-05-01,Pickpocketed on the Paris Metro: BEWARE!,5.0,2022,0
-France,2022-06-01,Paris metro SCAMMERS. Beware!,1.0,2022,0
+France,2022-06-01,Paris metro SCAMMERS. Beware!,1.0,2022,2
 France,2022-06-01,Bad experience with ticket control,3.0,2022,0
 France,2022-05-01,Easy system to use,5.0,2022,2
 France,2022-05-01,BEWARE OF SCAMMERS IN THE METRO - Paris Tourists,1.0,2022,0
@@ -139,7 +139,7 @@ France,2021-07-01,"Fast Cheap Transit, But Not Accessible.",5.0,2021,2
 France,2021-08-01,"Very good, but seriously lacking hand sanitizer points.",5.0,2021,1
 France,2021-08-01,great way to get around Paris,5.0,2021,2
 France,2021-08-01,Disappointing,1.0,2021,0
-France,2021-07-01,Paris Métro Station Elevators and Escalators,5.0,2021,0
+France,2021-07-01,Paris Métro Station Elevators and Escalators,5.0,2021,2
 France,2021-06-01,Horrendous experience,1.0,2021,0
 France,2020-06-01,I recommend it but be careful!,5.0,2020,2
 France,2019-10-01,An experience,5.0,2019,0
@@ -152,7 +152,7 @@ France,2019-04-01,HORRIBLE,1.0,2019,0
 France,2020-02-01,Quick and easy,5.0,2020,2
 France,2020-02-01,So many steps,5.0,2020,2
 France,2019-12-01,on time,5.0,2019,2
-France,2020-03-01,15 seconds arrival till departure - Masterrpiece in cooperation,5.0,2020,2
+France,2020-03-01,15 seconds arrival till departure - Masterrpiece in cooperation,5.0,2020,1
 France,2020-03-01,Be very aware of your handbag on Metro,3.0,2020,2
 France,2020-02-01,Beware the Fare Inspector,5.0,2020,0
 France,2020-02-01,Terrible,1.0,2020,0
@@ -180,7 +180,7 @@ France,2019-08-01,So cheap and reliable - best way around Paris,5.0,2019,2
 France,2019-12-01,Dirty rat hole with aggressive agents,1.0,2019,0
 France,2019-11-01,Scam in the Service Office Metro,1.0,2019,0
 France,2019-11-01,Low cost way to travel throughout Paris,5.0,2019,2
-France,2019-11-01,ALERT - if you travel to Paris on a weekend be prepared for station closures!,3.0,2019,1
+France,2019-11-01,ALERT - if you travel to Paris on a weekend be prepared for station closures!,3.0,2019,2
 France,2019-11-01,Getting Around,5.0,2019,2
 France,2019-11-01,Easy to use,5.0,2019,2
 France,2019-09-01,Great value for money,5.0,2019,2
@@ -188,7 +188,7 @@ France,2019-11-01,The 2nd time we wre a target for thieves.,1.0,2019,0
 France,2019-10-01,Paris Metro,5.0,2019,2
 France,2019-09-01,Generally good with a few big negatives,5.0,2019,2
 France,2019-11-01,Ótimo meio de transporte (Great means of transport),5.0,2019,2
-France,2019-10-01,"Anywhere you want, as long as you don't mind stairs",5.0,2019,2
+France,2019-10-01,"Anywhere you want, as long as you don't mind stairs",5.0,2019,1
 France,2019-10-01,Remember to get a picture to put on your Metro card!!!!!,5.0,2019,2
 France,2019-10-01,Useful but not efficient,5.0,2019,2
 France,2019-11-01,Paris bus,5.0,2019,2
@@ -216,11 +216,11 @@ France,2019-08-01,Avoid and use your common sense,1.0,2019,0
 France,2019-09-01,TOURISTS BEWARE,1.0,2019,0
 France,2019-05-01,Buy Booklets of 10 to save money,5.0,2019,2
 France,2019-09-01,Pickpockets on the metro,1.0,2019,2
-France,2019-09-01,Fraud,1.0,2019,2
+France,2019-09-01,Fraud,1.0,2019,0
 France,2019-09-01,WARNING about Paris Metro,1.0,2019,2
 France,2018-10-01,Paris Navigo Decouverte Pass,5.0,2018,2
 France,2019-07-01,Great Subway System,5.0,2019,2
-France,2019-09-01,Métro update,5.0,2019,0
+France,2019-09-01,Métro update,5.0,2019,2
 France,2019-09-01,Easy and convenient,5.0,2019,2
 France,2019-09-01,"Not disabled friendly, and the 'inspectors' are vile",1.0,2019,0
 France,2019-08-01,Best way to get around in Paris,5.0,2019,2
@@ -266,7 +266,7 @@ France,2019-07-01,Gettin' Around!,5.0,2019,2
 France,2019-07-01,"On-time and fast trains, but beware of pick-pocketers",1.0,2019,0
 France,2019-06-01,Excellent!,5.0,2019,2
 France,2019-07-01,Watch out for closed stations,5.0,2019,0
-France,2019-06-01,Pickpockets roam the stations - buskers too,3.0,2019,1
+France,2019-06-01,Pickpockets roam the stations - buskers too,3.0,2019,0
 France,2019-07-01,Mixed emotions - quick/cheap vs thieves/heat,3.0,2019,1
 France,2019-07-01,Beware metro police and unannounced station closures,1.0,2019,0
 France,2019-07-01,Useful if you want to save time and money,3.0,2019,2
@@ -286,7 +286,7 @@ France,2019-06-01,"Easy, Economical, Clean(-ish)",5.0,2019,2
 France,2019-04-01,Handy Travel but Be Aware,5.0,2019,2
 France,2019-06-01,Getting around in Paris,5.0,2019,2
 France,2019-06-01,Know the rules,1.0,2019,2
-France,2019-07-01,bleah,1.0,2019,0
+France,2019-07-01,bleah,1.0,2019,2
 France,2019-06-01,"Clean, fast service BUT keep your ticket through your journer",1.0,2019,2
 France,2019-04-01,get the 3/4/5 day all city pass,5.0,2019,2
 France,2019-06-01,Gets you around,5.0,2019,2
@@ -308,13 +308,13 @@ France,2019-05-01,Good way to get around without a vehicle.,5.0,2019,2
 France,2019-05-01,Accessibilty Plus,5.0,2019,2
 France,2019-06-01,So easy to get around,5.0,2019,2
 France,2019-06-01,Let the explore begin ;-),5.0,2019,2
-France,2019-06-01,Great accessibility to all city areas is the one positive,3.0,2019,2
+France,2019-06-01,Great accessibility to all city areas is the one positive,3.0,2019,1
 France,2019-06-01,Safe and Efficient Transportation in Paris!,5.0,2019,2
 France,2019-05-01,Nothing to fear if you know your destination,5.0,2019,2
 France,2019-06-01,Metro ride and walking in the roads in Paris.,3.0,2019,2
 France,2019-05-01,best way to explore the city,5.0,2019,2
 France,2019-05-01,"Still OK, but... .",3.0,2019,1
-France,2019-05-01,Much Better than expected.............,5.0,2019,2
+France,2019-05-01,Much Better than expected.............,5.0,2019,1
 France,2019-05-01,Worst tourist trap in Paris,1.0,2019,0
 France,2019-05-01,Invaluable,5.0,2019,2
 France,2019-05-01,Please take care.,3.0,2019,0
@@ -330,7 +330,7 @@ France,2019-04-01,A good way to explore the city,5.0,2019,2
 France,2019-04-01,Paris Metro to Charles de Gaulle,1.0,2019,0
 France,2019-02-01,"Avoid in the mornings if you value your life, ok in the afternoon",1.0,2019,0
 France,2019-04-01,Easy to Use,5.0,2019,2
-France,2019-03-01,Color coded routes makes it easy to commute,5.0,2019,1
+France,2019-03-01,Color coded routes makes it easy to commute,5.0,2019,2
 France,2018-08-01,Quick and easy,5.0,2018,2
 France,2019-04-01,"HGow to get around Paris, easily and cheaply",5.0,2019,2
 France,2019-03-01,Not the slickest metro in the world but the best way to get around Paris,5.0,2019,2
@@ -361,7 +361,7 @@ France,2019-03-01,Worth using!,5.0,2019,2
 France,2019-01-01,"AWFUL, NO CARE FOR THE CUSTOMER",1.0,2019,0
 France,2019-03-01,Listen carefully to my honest opinion after so many travels!,3.0,2019,1
 France,2018-12-01,Very Easy to Use,5.0,2018,2
-France,2019-03-01,Take care to get the correct ticket or you face a fine!,1.0,2019,1
+France,2019-03-01,Take care to get the correct ticket or you face a fine!,1.0,2019,0
 France,2019-03-01,Short visit to Paris,5.0,2019,2
 France,2019-03-01,Metro Pass,5.0,2019,2
 France,2018-12-01,Carnet tickets (10 for €14.90 - €1.49 per ticket),5.0,2018,2
@@ -371,8 +371,8 @@ France,2019-02-01,Thieves!!!!,1.0,2019,0
 France,2019-02-01,Great way to get around cheaply,5.0,2019,2
 France,2019-02-01,The best!,5.0,2019,2
 France,2019-02-01,Refugees........in your face,3.0,2019,0
-France,2019-02-01,No elevator!,1.0,2019,0
-France,2019-02-01,Straight forward once you have a ticket,3.0,2019,1
+France,2019-02-01,No elevator!,1.0,2019,2
+France,2019-02-01,Straight forward once you have a ticket,3.0,2019,0
 France,2019-02-01,Dreadful,1.0,2019,0
 France,2018-11-01,"Beware, some tips I should off known before!",3.0,2018,2
 France,2019-02-01,Almost Great One Big Issue,5.0,2019,2
@@ -402,20 +402,20 @@ France,2018-12-01,Rather bad trains and stations; staff is almost useless and ru
 France,2018-11-01,"Excellent way to get around, but showing its age in places",5.0,2018,2
 France,2018-11-01,"Easy, cheap mode to get around",5.0,2018,2
 France,2018-11-01,We took control of the city from the underground,5.0,2018,2
-France,2018-11-01,dissapointing,3.0,2018,1
+France,2018-11-01,dissapointing,3.0,2018,0
 France,2018-10-01,USE THE METRO!!!,5.0,2018,2
 France,2018-11-01,"Once you get the hang of it, its brilliant",5.0,2018,2
 France,2018-11-01,Great way to travel,5.0,2018,2
 France,2018-08-01,Almost like the tube,3.0,2018,2
 France,2018-11-01,Easy and functional,5.0,2018,2
 France,2018-11-01,very useful,5.0,2018,2
-France,2018-11-01,Dark ages,1.0,2018,2
+France,2018-11-01,Dark ages,1.0,2018,0
 France,2018-09-01,Actually Paris Metro was not that bad.,3.0,2018,0
 France,2018-10-01,Metro very confusing,1.0,2018,2
 France,2018-10-01,Super easy way around Paris (and cheap and convenient!),5.0,2018,2
 France,2018-10-01,Mí-eagrú agus eagla,1.0,2018,0
 France,2018-10-01,Metro nightmare,3.0,2018,0
-France,2018-10-01,Reaching all the landmarks,5.0,2018,0
+France,2018-10-01,Reaching all the landmarks,5.0,2018,2
 France,2018-10-01,Rude and unhelpful staff attitude and security poor,1.0,2018,0
 France,2018-10-01,Easy to use but please stop using paper tickets,5.0,2018,2
 France,2018-09-01,Actually Quite Easy,5.0,2018,2
@@ -431,7 +431,7 @@ France,2018-10-01,easy way to travel,3.0,2018,2
 France,2018-10-01,It gets you around,3.0,2018,2
 France,2018-10-01,Day pass con to trap unsuspecting tourist,1.0,2018,0
 France,2018-10-01,Secure,5.0,2018,0
-France,2018-09-01,Love and hate,3.0,2018,2
+France,2018-09-01,Love and hate,3.0,2018,1
 France,2018-09-01,Fantastic system,5.0,2018,2
 France,2018-08-01,Worst service ever,1.0,2018,0
 France,2018-10-01,Hate it,1.0,2018,0
@@ -464,12 +464,12 @@ France,2018-08-01,Going Underground,5.0,2018,2
 France,2018-03-01,GREAT WAY AROUND PARIS,5.0,2018,2
 France,2018-08-01,smelled,3.0,2018,1
 France,2017-10-01,Efficient but be careful,3.0,2017,2
-France,2018-08-01,Average Trains and service,3.0,2018,0
+France,2018-08-01,Average Trains and service,3.0,2018,2
 France,2018-08-01,"Old, but seeing improvements",3.0,2018,2
 France,2018-08-01,Don’t loose your ticket,5.0,2018,0
 France,2017-09-01,Beware of scams,1.0,2017,0
 France,2017-12-01,no stress,5.0,2017,2
-France,2018-08-01,Keep your ticket!!!,1.0,2018,0
+France,2018-08-01,Keep your ticket!!!,1.0,2018,2
 France,2018-08-01,Tourist Beware,1.0,2018,0
 France,2018-08-01,First time on the Metro,5.0,2018,2
 France,2018-08-01,Very systematic and on time,5.0,2018,2
@@ -519,7 +519,7 @@ France,2018-07-01,"Fined in the Metro, very unreasonable. Basically stealing.",1
 France,2018-07-01,"Paris Metro is great, but has it's issues..",5.0,2018,2
 France,2018-07-01,Always Keep Your Ticket !,1.0,2018,0
 France,2018-07-01,Nightmare !,1.0,2018,0
-France,2018-07-01,Keep your ticket!,5.0,2018,0
+France,2018-07-01,Keep your ticket!,5.0,2018,2
 France,2018-07-01,Easy to use,5.0,2018,2
 France,2018-06-01,Very Easy To Get Around...Without Speaking French,5.0,2018,2
 France,2018-06-01,Easy to Use,5.0,2018,2
@@ -531,8 +531,8 @@ France,2018-05-01,In dire need of overhaul,1.0,2018,0
 France,2018-05-01,Clean and Convenient,5.0,2018,2
 France,2018-06-01,Need more directions and assistance for outsiders,3.0,2018,1
 France,2018-06-01,Horrible experience,1.0,2018,0
-France,2018-06-01,"Inexpensive, Efficient But NOT ADA or Luggage-Friendly; RER Impacted by Strikes",3.0,2018,1
-France,2018-06-01,Nostalgia of the old times,1.0,2018,0
+France,2018-06-01,"Inexpensive, Efficient But NOT ADA or Luggage-Friendly; RER Impacted by Strikes",3.0,2018,2
+France,2018-06-01,Nostalgia of the old times,1.0,2018,1
 France,2018-06-01,Reminds me of Boston’s system,5.0,2018,2
 France,2018-06-01,Very Easy Mode Of Transpo,5.0,2018,2
 France,2018-06-01,Very Easy to Navigate,5.0,2018,2
@@ -566,7 +566,7 @@ France,2018-05-01,Efficient but not on a Sunday,5.0,2018,2
 France,2018-03-01,Baby in Metro,5.0,2018,2
 France,2018-04-01,Efficient and easy to use,5.0,2018,2
 France,2018-05-01,Picking Pockets in Paris,3.0,2018,0
-France,2018-05-01,Quickest route from Gare du Nord to Montparnasse,5.0,2018,2
+France,2018-05-01,Quickest route from Gare du Nord to Montparnasse,5.0,2018,1
 France,2018-04-01,Easy Travel to Louvre,5.0,2018,2
 France,2018-04-01,"Fast, reliable, safe",5.0,2018,2
 France,2018-04-01,Travel around the city fast and inexpensively - lots of steps,5.0,2018,2
@@ -586,7 +586,7 @@ France,2018-04-01,Very busy,3.0,2018,2
 France,2018-04-01,Paris Metro 4/2018,3.0,2018,2
 France,2018-04-01,Great form of transportation but you need to be careful,5.0,2018,2
 France,2018-03-01,Great for getting around,5.0,2018,2
-France,2018-04-01,Good but not with luggage,3.0,2018,1
+France,2018-04-01,Good but not with luggage,3.0,2018,2
 France,2018-04-01,Comprehensive urban transportation system,5.0,2018,2
 France,2018-04-01,Highly efficient train system,5.0,2018,2
 France,2018-02-01,Good metro network!,5.0,2018,2
@@ -614,7 +614,7 @@ France,2018-03-01,"Clean, efficient and easy to navigate",5.0,2018,2
 France,2018-02-01,5 Day metro passes,5.0,2018,2
 France,2018-02-01,Easy to navigate and use - not particularly accessible,5.0,2018,2
 France,2018-02-01,Day out to sites,5.0,2018,2
-France,2018-02-01,Looking really dated,3.0,2018,1
+France,2018-02-01,Looking really dated,3.0,2018,0
 France,2018-01-01,Very helpful,5.0,2018,2
 France,2018-01-01,Horrible RER A,1.0,2018,0
 France,2017-11-01,50EURO FINE FOR NOT HAVING YOUR ORIGINAL TICKET - Please read!!!!,1.0,2017,0
@@ -637,10 +637,10 @@ France,2017-12-01,watch out for pickpockets,5.0,2017,0
 France,2017-12-01,Navigo monthly pass is value,5.0,2017,2
 France,2017-12-01,Only If You Must,3.0,2017,2
 France,2017-12-01,Best way to get around Paris,5.0,2017,2
-France,2017-09-01,Necessary evil,5.0,2017,2
+France,2017-09-01,Necessary evil,5.0,2017,0
 France,2017-12-01,Tips on Navigating the Metro,5.0,2017,2
-France,2017-12-01,It will get you from point A to B fine,3.0,2017,1
-France,2017-01-01,J'évite par tous les moyens ce transport,1.0,2017,1
+France,2017-12-01,It will get you from point A to B fine,3.0,2017,2
+France,2017-01-01,J'évite par tous les moyens ce transport,1.0,2017,0
 France,2017-11-01,Horrible,1.0,2017,0
 France,2017-12-01,"Not for handicapped, old or passengers with luggage",3.0,2017,1
 France,2017-07-01,Absolutely the best way to get around Paris !,5.0,2017,2
@@ -654,12 +654,12 @@ France,2017-10-01,"Safe, clean and easy",5.0,2017,2
 France,2017-11-01,Beware!,1.0,2017,0
 France,2017-11-01,Metro,5.0,2017,2
 France,2017-06-01,"A fabulous, efficient way to go anywhere in Paris!!",5.0,2017,2
-France,2017-11-01,Decent Service - Poor Accessibility,3.0,2017,0
+France,2017-11-01,Decent Service - Poor Accessibility,3.0,2017,1
 France,2017-10-01,the best way to get around Paris,5.0,2017,2
 France,2017-11-01,Easy to use,5.0,2017,2
 France,2017-10-01,Best transport in Paris,5.0,2017,2
 France,2017-10-01,Great way to get around,5.0,2017,2
-France,2017-10-01,"A confusing, old and difficult Metro",3.0,2017,0
+France,2017-10-01,"A confusing, old and difficult Metro",3.0,2017,1
 France,2017-10-01,Frequent and hassle free,5.0,2017,2
 France,2017-09-01,CHEAP WAY TO GO AROUND PARIS!,5.0,2017,2
 France,2017-09-01,Watch out for gangs of pickpockets on the metro,1.0,2017,0
@@ -691,7 +691,7 @@ France,2016-10-01,Best in europe,5.0,2016,2
 France,2017-06-01,Needs updating,3.0,2017,1
 France,2017-07-01,"Convenient, economical and efficient mode of transportation in Paris",5.0,2017,2
 France,2017-06-01,Most convenient & economical mode of transport to explore Paris...,5.0,2017,2
-France,2017-08-01,Convenient but badly in need of some love.,3.0,2017,2
+France,2017-08-01,Convenient but badly in need of some love.,3.0,2017,1
 France,2017-08-01,"Paris’ Metro -a bargain & great value, excellent & efficient too!",5.0,2017,2
 France,2017-08-01,Not Impressed,3.0,2017,2
 France,2017-08-01,Very easy to use,5.0,2017,2
@@ -711,7 +711,7 @@ France,2017-08-01,Very easy to use,5.0,2017,2
 France,2017-08-01,The PARIS VISITE CARD now allows more,5.0,2017,2
 France,2017-07-01,Best Way to get around Paris; buy day passes,5.0,2017,2
 France,2016-09-01,Quickest way around the city,3.0,2016,2
-France,2017-07-01,FINED 60euros AND REFUNDED AFTER FORMAL COMPLAINT.,3.0,2017,1
+France,2017-07-01,FINED 60euros AND REFUNDED AFTER FORMAL COMPLAINT.,3.0,2017,0
 France,2017-07-01,Needs to be cleaned up,3.0,2017,2
 France,2017-07-01,Worst experience ever.,1.0,2017,0
 France,2017-08-01,Unpleasantly suprised by the French authorities,3.0,2017,1
@@ -723,7 +723,7 @@ France,2017-07-01,Horrible for mobility issues,1.0,2017,0
 France,2017-07-01,Can be good or vad,3.0,2017,2
 France,2017-07-01,Quick and Easy,5.0,2017,2
 France,2016-09-01,Worth a try,5.0,2016,2
-France,2017-07-01,NYC needs to revamp,5.0,2017,0
+France,2017-07-01,NYC needs to revamp,5.0,2017,1
 France,2017-07-01,Best way to travel around Paris,5.0,2017,2
 France,2017-07-01,"Easy to use, get the app!",5.0,2017,2
 France,2017-07-01,Metro is no so good.,1.0,2017,2
@@ -774,27 +774,27 @@ France,2017-05-01,Getting lost!,3.0,2017,2
 France,2017-05-01,The most unhelpful staff and bullying inspectors,1.0,2017,0
 France,2017-05-01,Ideal way to get around Paris,5.0,2017,2
 France,2017-04-01,Very Clean and the best way to get around Paris,5.0,2017,2
-France,2017-05-01,Buy a multi pack,5.0,2017,0
-France,2017-05-01,Complicated,3.0,2017,1
+France,2017-05-01,Buy a multi pack,5.0,2017,2
+France,2017-05-01,Complicated,3.0,2017,2
 France,2017-04-01,Better than I remember but still could use some improvements,3.0,2017,1
 France,2017-05-01,Wife birthday,5.0,2017,2
-France,2017-05-01,Very easy to lose your wallet -pickpockets abound,1.0,2017,0
+France,2017-05-01,Very easy to lose your wallet -pickpockets abound,1.0,2017,2
 France,2017-05-01,So easy!!,5.0,2017,2
-France,2017-04-01,Schemiing!,1.0,2017,0
-France,2017-05-01,Should be better for a major city,3.0,2017,1
+France,2017-04-01,Schemiing!,1.0,2017,2
+France,2017-05-01,Should be better for a major city,3.0,2017,2
 France,2017-05-01,The best metro service,5.0,2017,2
-France,2017-04-01,We somehow missed the clean trains,1.0,2017,1
-France,2017-04-01,Gross!,3.0,2017,1
+France,2017-04-01,We somehow missed the clean trains,1.0,2017,0
+France,2017-04-01,Gross!,3.0,2017,2
 France,2017-04-01,Very easy to travel everywhere!!,5.0,2017,2
 France,2017-01-01,Great Form Of Travel,5.0,2017,2
 France,2017-04-01,Easy to get around,5.0,2017,2
 France,2017-04-01,Great,5.0,2017,2
 France,2017-04-01,Simple and great,5.0,2017,2
-France,2017-04-01,Getting between train stations in downtown is a maze,3.0,2017,1
+France,2017-04-01,Getting between train stations in downtown is a maze,3.0,2017,2
 France,2017-04-01,Easy and convienent,5.0,2017,2
 France,2017-04-01,Boston could learn a thing or two from those who run the Metro,5.0,2017,2
 France,2017-04-01,Travel daily,5.0,2017,2
-France,2017-04-01,Makes London Underground appear spacious,3.0,2017,1
+France,2017-04-01,Makes London Underground appear spacious,3.0,2017,2
 France,2017-03-01,Easy to use and an inexpensive way of getting around the city,5.0,2017,2
 France,2017-04-01,Great way to get around Paris,5.0,2017,2
 France,2017-04-01,"Efficient, cheap but be very wary.",5.0,2017,2
@@ -825,7 +825,7 @@ France,2017-03-01,Beware of Pick pockets!!,5.0,2017,0
 France,2016-11-01,World Class,5.0,2016,2
 France,2017-03-01,A most impressive boring place!,5.0,2017,2
 France,2017-03-01,Penalty Fare,5.0,2017,2
-France,2016-05-01,Ummm...,3.0,2016,1
+France,2016-05-01,Ummm...,3.0,2016,2
 France,2017-02-01,Attention to pickpockets,3.0,2017,0
 France,2017-02-01,3 day pass,5.0,2017,2
 France,2016-12-01,"Easy, simple, frequent & fast",5.0,2016,2
@@ -865,7 +865,7 @@ France,2016-12-01,a great metro system,5.0,2016,2
 France,2016-12-01,How to travel in Paris,5.0,2016,2
 France,2016-06-01,Beware Pickpockets,1.0,2016,0
 France,2016-01-01,Good transportation system to get around Paris and beyond,5.0,2016,2
-France,2016-12-01,Complicated but not impossible,3.0,2016,1
+France,2016-12-01,Complicated but not impossible,3.0,2016,0
 France,2016-12-01,You must go to louvre revolution station,3.0,2016,2
 France,2016-12-01,Guide for getting a Navigo Decouverte,5.0,2016,2
 France,2016-01-01,Way cheaper than the London tube and very convenient,5.0,2016,2
@@ -896,7 +896,7 @@ France,2016-09-01,Excellent way to get about,5.0,2016,2
 France,2016-10-01,Great service,5.0,2016,2
 France,2016-10-01,PARIS NAVIGO 5 DAYS! Remember YOUR PHOTO or you get fined!,1.0,2016,2
 France,2016-10-01,Girls day out,5.0,2016,2
-France,2016-09-01,Manageable and Precise,5.0,2016,2
+France,2016-09-01,Manageable and Precise,5.0,2016,0
 France,2016-10-01,Quick and easy,5.0,2016,2
 France,2016-09-01,Highly Recommended,5.0,2016,2
 France,2016-10-01,Vacation,5.0,2016,2
@@ -922,7 +922,7 @@ France,2016-09-01,World class transport system,5.0,2016,2
 France,2016-09-01,With Small Children,5.0,2016,2
 France,2016-09-01,Poor service!,1.0,2016,0
 France,2016-09-01,Clean & comfortable,5.0,2016,2
-France,2016-09-01,"Be careful, Someone stole my passport in Metro!",3.0,2016,0
+France,2016-09-01,"Be careful, Someone stole my passport in Metro!",3.0,2016,1
 France,2016-09-01,The best way to get around paris,5.0,2016,2
 France,2016-09-01,Easy and effective means of getting around,5.0,2016,2
 France,2016-09-01,So easy to get around,5.0,2016,2
@@ -930,12 +930,12 @@ France,2016-08-01,"Fast, easy and inexpensive",5.0,2016,2
 France,2016-06-01,Absolutely a great way to get around the city.,5.0,2016,2
 France,2016-08-01,A Great Transport System,5.0,2016,2
 France,2016-07-01,"Some line doesnt look modern , easy way to go arround",3.0,2016,2
-France,2016-09-01,In a Hurry?.,5.0,2016,1
+France,2016-09-01,In a Hurry?.,5.0,2016,2
 France,2016-09-01,Something a little different enriches your experience!,5.0,2016,0
 France,2016-07-01,So easy to use,5.0,2016,2
 France,2016-08-01,PICK POCKETS ARE RUNNING WILD,5.0,2016,0
 France,2015-10-01,"Avoid traffic congestion, travel underground",5.0,2015,2
-France,2016-09-01,Do not discard your ticket,5.0,2016,2
+France,2016-09-01,Do not discard your ticket,5.0,2016,0
 France,2016-04-01,Easy to navigate,5.0,2016,2
 France,2016-08-01,My first time,5.0,2016,2
 France,2016-08-01,An experience,1.0,2016,0
@@ -992,8 +992,8 @@ France,2016-07-01,Quick trips for a family of 4,5.0,2016,2
 France,2016-07-01,Best way to get around,5.0,2016,2
 France,2016-07-01,Beware scam at metro station where staff appear to be part of con .,3.0,2016,0
 France,2016-07-01,"Cheap, Timely, Accessible",3.0,2016,2
-France,2016-07-01,From Charles de Gaulle into Gare Du Lyon/Gare du Lyon to Champs Elysees,3.0,2016,0
-France,2016-06-01,"In hindsight, walk or Uber",1.0,2016,0
+France,2016-07-01,From Charles de Gaulle into Gare Du Lyon/Gare du Lyon to Champs Elysees,3.0,2016,1
+France,2016-06-01,"In hindsight, walk or Uber",1.0,2016,1
 France,2016-03-01,The trains were on time and not crowded -- loved it!,5.0,2016,2
 France,2016-07-01,Not very wheelchair accessible,3.0,2016,2
 France,2016-07-01,Excellent way to easily get around Paris,5.0,2016,2
@@ -1019,8 +1019,8 @@ France,2016-03-01,Robbed by Paris Metro agents,1.0,2016,0
 France,2015-11-01,Riding the Paris Metro,3.0,2015,2
 France,2016-06-01,Designed to target tourists,1.0,2016,0
 France,2016-06-01,Good system,5.0,2016,2
-France,2016-06-01,Garbage everywhere!!!!!,1.0,2016,0
-France,2016-06-01,User beware,1.0,2016,2
+France,2016-06-01,Garbage everywhere!!!!!,1.0,2016,2
+France,2016-06-01,User beware,1.0,2016,0
 France,2015-12-01,Great system not so great people,5.0,2015,2
 France,2016-05-01,Multi day pass is the way to travel!,5.0,2016,2
 France,2016-06-01,It is great.,5.0,2016,2
@@ -1033,11 +1033,11 @@ France,2016-05-01,Get to know the Metro System.,5.0,2016,2
 France,2016-05-01,Efficient but vicious gates,5.0,2016,2
 France,2016-06-01,"Easy, fast and comfortable way to get around Paris",5.0,2016,2
 France,2015-09-01,The best way to go around Paris,5.0,2015,2
-France,2016-05-01,Old as you can imagine,3.0,2016,0
+France,2016-05-01,Old as you can imagine,3.0,2016,1
 France,2016-05-01,Get a day ticket,5.0,2016,2
 France,2015-08-01,Best way to get around Paris,5.0,2015,2
 France,2016-05-01,Extensive network,5.0,2016,2
-France,2016-05-01,Racket!,1.0,2016,2
+France,2016-05-01,Racket!,1.0,2016,0
 France,2016-05-01,"Convenient, Easy and Very Useful!",5.0,2016,2
 France,2016-05-01,A great way to get around Paris quickly,5.0,2016,2
 France,2016-04-01,It's Public Transportation Already,5.0,2016,2
@@ -1080,18 +1080,18 @@ France,2016-04-01,Easy way to get around,5.0,2016,2
 France,2016-03-01,"Dingy, with some dodgy characters. Not ideal for whellchair or Prams.",1.0,2016,0
 France,2016-02-01,top value = carnet,5.0,2016,2
 France,2016-03-01,Fast and convenient,5.0,2016,2
-France,2016-03-01,Avarage,3.0,2016,1
+France,2016-03-01,Avarage,3.0,2016,2
 France,2015-05-01,"Easy to Navigate, Many Stops Near Tourist Sites",5.0,2015,2
 France,2016-03-01,Too many stairs & old stations,1.0,2016,0
 France,2016-03-01,Very user friendly,5.0,2016,2
-France,2016-03-01,Efficient but dirty,3.0,2016,1
+France,2016-03-01,Efficient but dirty,3.0,2016,2
 France,2016-03-01,Bad experience...,1.0,2016,0
 France,2016-02-01,Paris metro,5.0,2016,2
-France,2016-03-01,Be very careful,5.0,2016,0
+France,2016-03-01,Be very careful,5.0,2016,2
 France,2016-03-01,Runs laye,5.0,2016,2
 France,2016-03-01,A quick and inexpensive way to get to De Gaul Airport!,5.0,2016,2
 France,2016-03-01,Bad attitudes towards visitors!,1.0,2016,0
-France,2016-03-01,Ticket confusion,5.0,2016,0
+France,2016-03-01,Ticket confusion,5.0,2016,2
 France,2015-06-01,ok if you're in a hurry,3.0,2015,1
 France,2016-02-01,Easy to get around but do your homework!,5.0,2016,2
 France,2015-06-01,Quick travel,3.0,2015,2
@@ -1104,7 +1104,7 @@ France,2016-02-01,Great transportation system.,5.0,2016,2
 France,2015-04-01,"Very comprehensive, easy to use metro",5.0,2015,2
 France,2015-12-01,RATP - The Only Way to Get Around Paris - IF YOU HAVE THE APP!,5.0,2015,2
 France,2016-03-01,Super convenience!,5.0,2016,2
-France,2015-08-01,Beautiful Views When Traveling to Eiffel from International Airport,5.0,2015,1
+France,2015-08-01,Beautiful Views When Traveling to Eiffel from International Airport,5.0,2015,2
 France,2016-02-01,best way to get around`,5.0,2016,2
 France,2015-07-01,Woderful way of transportation.,5.0,2015,2
 France,2015-12-01,Cheap and easy to get around.,5.0,2015,2
@@ -1130,7 +1130,7 @@ France,2016-01-01,Efficient and easy to navigate.,5.0,2016,2
 France,2015-08-01,Great except for no lifts.,5.0,2015,2
 France,2016-01-01,Excellent way to get around in Paris,5.0,2016,2
 France,2015-10-01,Gettin there,5.0,2015,2
-France,2015-12-01,"Very convenient and frequent yet can be dirty, crowded and watch your possessions.",5.0,2015,1
+France,2015-12-01,"Very convenient and frequent yet can be dirty, crowded and watch your possessions.",5.0,2015,2
 France,2015-12-01,Pluses and Minuses,5.0,2015,2
 France,2015-03-01,Go everywhere,5.0,2015,2
 France,2015-12-01,We had no problems on the Paris Metro!,5.0,2015,2
@@ -1225,7 +1225,7 @@ France,2015-08-01,Almost perfect,5.0,2015,2
 France,2015-08-01,Great,5.0,2015,2
 France,2015-09-01,The way to get around in Paris,5.0,2015,2
 France,2015-09-01,Bad for push chairs and disability access,1.0,2015,1
-France,2015-08-01,Forced to purchase return tickets,3.0,2015,2
+France,2015-08-01,Forced to purchase return tickets,3.0,2015,1
 France,2015-09-01,"Easy, convenient and definitely the way to travel in paris",5.0,2015,2
 France,2015-08-01,spider web like convenience,3.0,2015,2
 France,2015-08-01,Convenient and easy to navigate but can be very dirty,3.0,2015,2
@@ -1249,7 +1249,7 @@ France,2015-05-01,Best in Europe,5.0,2015,2
 France,2015-08-01,Not a regular choice of transport i'd use,1.0,2015,2
 France,2015-08-01,Runs well but it's dirty and smelly,1.0,2015,0
 France,2014-09-01,"Cheap, Safe and Entertaining",5.0,2014,2
-France,2015-05-01,Old and Dirty,3.0,2015,0
+France,2015-05-01,Old and Dirty,3.0,2015,1
 France,2015-07-01,Excellent but be aware!!,5.0,2015,2
 France,2015-08-01,A great way to travel round parus,5.0,2015,2
 France,2015-08-01,Not the Paris I rememebered,1.0,2015,2
@@ -1300,8 +1300,8 @@ France,2015-06-01,No help on Sundays,3.0,2015,2
 France,2015-06-01,My first time on the Paris Metro,5.0,2015,2
 France,2015-06-01,Scammed Big Time at Gard du Nord,1.0,2015,0
 France,2015-06-01,Best Way to get Around,5.0,2015,2
-France,2015-06-01,Don't discard your metro tickets!,3.0,2015,2
-France,2015-06-01,Good for the able bodied,5.0,2015,1
+France,2015-06-01,Don't discard your metro tickets!,3.0,2015,0
+France,2015-06-01,Good for the able bodied,5.0,2015,2
 France,2014-07-01,Amazing transport system,5.0,2014,2
 France,2015-05-01,Fast and efficient service to see the sights of Paris,5.0,2015,2
 France,2015-05-01,Best way to get around Paris,5.0,2015,2
@@ -1312,13 +1312,13 @@ France,2015-05-01,Thugs in the Metro,1.0,2015,0
 France,2014-09-01,huge network,3.0,2014,2
 France,2015-05-01,Wonderful,5.0,2015,2
 France,2015-05-01,Holiday,1.0,2015,2
-France,2015-05-01,Lots of stairs & walking,5.0,2015,0
-France,2015-05-01,Dissapponting,1.0,2015,2
+France,2015-05-01,Lots of stairs & walking,5.0,2015,1
+France,2015-05-01,Dissapponting,1.0,2015,0
 France,2015-05-01,The Metro!,5.0,2015,2
 France,2015-04-01,Easy to use,5.0,2015,2
 France,2015-05-01,Good system BUT KEEP YOUR TICKETS,5.0,2015,2
 France,2015-04-01,Hard to navigate,5.0,2015,2
-France,2015-05-01,Like a rollercoaster metroline 1 (Defense - Vincennes),5.0,2015,2
+France,2015-05-01,Like a rollercoaster metroline 1 (Defense - Vincennes),5.0,2015,1
 France,2015-05-01,Rookies on Rails,5.0,2015,2
 France,2015-05-01,Quick and clean,5.0,2015,2
 France,2015-05-01,The metro as entertainment venue; get a Navigo Decouverte; get great video of Eiffel Tower & the Seine from the metro,5.0,2015,2
@@ -1346,8 +1346,8 @@ France,2014-11-01,The Metro in Paris,5.0,2014,2
 France,2015-02-01,Best way to get around Paris!,5.0,2015,2
 France,2015-02-01,"Paris Metro easy to use, you don't need cabs",5.0,2015,2
 France,2014-11-01,A satisfying experience with the Paris Metro,5.0,2014,0
-France,2015-01-01,From homeless to designer stations,5.0,2015,2
-France,2015-02-01,Beware - Metro from airport,1.0,2015,0
+France,2015-01-01,From homeless to designer stations,5.0,2015,0
+France,2015-02-01,Beware - Metro from airport,1.0,2015,2
 France,2015-02-01,Very easy to navigate,5.0,2015,2
 France,2015-02-01,Good points and bad,3.0,2015,1
 France,2015-01-01,so easy to use,5.0,2015,2
@@ -1364,7 +1364,7 @@ France,2014-11-01,It gets you there.,5.0,2014,2
 France,2014-09-01,Huge Network,5.0,2014,2
 France,2014-09-01,Beautiful Stations & Grand Entrances!,5.0,2014,2
 France,2014-10-01,User friendly,5.0,2014,2
-France,2014-10-01,Easy to use but dangerous and dirty!,3.0,2014,1
+France,2014-10-01,Easy to use but dangerous and dirty!,3.0,2014,2
 France,2014-10-01,Paris Metro Scam,5.0,2014,0
 France,2014-10-01,Quick and easy,5.0,2014,2
 France,2014-10-01,Be Alert...,5.0,2014,2
@@ -1379,12 +1379,12 @@ France,2014-09-01,"frequent, on time, speedy, friendly, and musical",5.0,2014,2
 France,2014-09-01,Visitors to Museum D'Orsay beware,1.0,2014,0
 France,2014-09-01,The Metro is a great way to get around Paris,5.0,2014,2
 France,2014-06-01,"It works efficiently but it's tremendously dirty, old and smelly .",1.0,2014,1
-France,2014-04-01,Long walks at intersections,5.0,2014,0
+France,2014-04-01,Long walks at intersections,5.0,2014,1
 France,2014-05-01,paris Metro,5.0,2014,2
 France,2014-09-01,"Easy, safe & convenient...",5.0,2014,2
 France,2014-09-01,Great subway system.,5.0,2014,2
 France,2014-08-01,Not friendly at all,1.0,2014,2
-France,2013-10-01,Lower than average,1.0,2013,0
+France,2013-10-01,Lower than average,1.0,2013,1
 France,2014-08-01,An easy to use system of subways,5.0,2014,2
 France,2014-08-01,A Bad Experience,1.0,2014,0
 France,2014-08-01,Do your homework,5.0,2014,2
@@ -1400,7 +1400,7 @@ France,2014-06-01,The evening ever!,3.0,2014,0
 France,2014-07-01,The Absolute Worst Subway System,3.0,2014,0
 France,2013-08-01,Scary!!,1.0,2013,0
 France,2013-08-01,Cheap and efficient way to travel in Paris,3.0,2013,2
-France,2014-06-01,Take lots of hand sanitizer!,1.0,2014,0
+France,2014-06-01,Take lots of hand sanitizer!,1.0,2014,2
 France,2014-05-01,"Dark, smelly, colourful, efficient and unique",5.0,2014,2
 France,2014-06-01,"Paris metro, bus",5.0,2014,2
 France,2014-06-01,Strike!,1.0,2014,0
@@ -1433,7 +1433,7 @@ France,2014-04-01,Efficient,5.0,2014,2
 France,2013-09-01,Get ready to walk!,5.0,2013,2
 France,2014-03-01,Super system,5.0,2014,2
 France,2014-03-01,Wonderful way to get around,5.0,2014,2
-France,2014-03-01,No need for a rental car,5.0,2014,2
+France,2014-03-01,No need for a rental car,5.0,2014,0
 France,2014-02-01,Maybe the best,5.0,2014,2
 France,2014-03-01,5 days in Paris,5.0,2014,2
 France,2014-03-01,"Metro is Fast, Frequent but Confusing Ticket Machines",5.0,2014,2
@@ -1466,7 +1466,7 @@ France,2013-08-01,PARIS METRO IS GREAT BUT KEEP YOUR TICKETS!,5.0,2013,2
 France,2013-10-01,Absolutely brilliant service,5.0,2013,2
 France,2013-09-01,Easy,5.0,2013,2
 France,2013-10-01,Easy to use Metro,5.0,2013,2
-France,2013-10-01,Watch out for pickpockets masquerading as little girls,3.0,2013,1
+France,2013-10-01,Watch out for pickpockets masquerading as little girls,3.0,2013,0
 France,2013-10-01,Plan Plan Plan before you go,5.0,2013,2
 France,2013-09-01,Beware of young girls carrying a survey/donation folder and asking if you speak English.,1.0,2013,0
 France,2013-08-01,fast,5.0,2013,2
@@ -1476,7 +1476,7 @@ France,2013-08-01,Easy transportation everywhere in Paris.But.,5.0,2013,2
 France,2013-08-01,"So easy, makes a big city accessible",5.0,2013,2
 France,2013-05-01,Lifeline of the city!!!,5.0,2013,2
 France,2013-08-01,"Dirty, but cheap",1.0,2013,1
-France,2013-08-01,Paris Metro - Unfriendly,1.0,2013,0
+France,2013-08-01,Paris Metro - Unfriendly,1.0,2013,2
 France,2013-03-01,Careful with the cheaters,1.0,2013,0
 France,2013-08-01,Poor,1.0,2013,0
 France,2013-08-01,Quick and easy,3.0,2013,2
@@ -1507,7 +1507,7 @@ France,2013-06-01,Not very disable friendly,5.0,2013,2
 France,2013-05-01,Easy To Master,5.0,2013,2
 France,2013-05-01,Easy,5.0,2013,2
 France,2013-05-01,Fast and easy but do be careful,5.0,2013,2
-France,2013-06-01,"you have to use it, but it's dumpsville central",1.0,2013,0
+France,2013-06-01,"you have to use it, but it's dumpsville central",1.0,2013,2
 France,2012-07-01,Ride the Metro!,5.0,2012,2
 France,2013-05-01,Great way to get around this beautiful city!,5.0,2013,2
 France,2013-05-01,"Easy to use, fast, cheap.",5.0,2013,2
@@ -1521,7 +1521,7 @@ France,2013-01-01,THE way to get around,5.0,2013,2
 France,2013-04-01,Easy to use but ...dirty and smells of urine,3.0,2013,1
 France,2013-04-01,Feel free to use,5.0,2013,2
 France,2013-04-01,Smelly,3.0,2013,0
-France,2012-12-01,"Very good, very convenient, but take care - pickpockets and thugs abound in the metro",5.0,2012,1
+France,2012-12-01,"Very good, very convenient, but take care - pickpockets and thugs abound in the metro",5.0,2012,2
 France,2013-04-01,Get your day ticket and get going!,5.0,2013,2
 France,2013-03-01,"Flexible, Easy and Cheap way to explore Paris",5.0,2013,2
 France,2013-04-01,Buy a pass,5.0,2013,2
@@ -1531,8 +1531,8 @@ France,2013-03-01,"Cheap, frequent, easy to understand",5.0,2013,2
 France,2013-02-01,convinient and cheap metro,5.0,2013,2
 France,2012-04-01,"Terrible, look good only on movies",1.0,2012,0
 France,2013-03-01,Beware scam artists at ticket machines,3.0,2013,0
-France,2013-03-01,make sure you buy the correct tickets,3.0,2013,1
-France,2013-03-01,Watched a person eat fleas off their clothes,1.0,2013,1
+France,2013-03-01,make sure you buy the correct tickets,3.0,2013,2
+France,2013-03-01,Watched a person eat fleas off their clothes,1.0,2013,0
 France,2012-11-01,"cheap transportation, but...",1.0,2012,2
 France,2013-03-01,paris metro EASY !!,5.0,2013,2
 France,2013-03-01,Easy to use and cheap transportation,5.0,2013,2
@@ -1555,7 +1555,7 @@ France,2012-10-01,The way subways should be - reliable and efficient.,5.0,2012,2
 France,2012-09-01,The French have public transport soughted!,5.0,2012,2
 France,2012-07-01,Best way to travel in Paris,5.0,2012,2
 France,2012-08-01,The best way to get around Town.,5.0,2012,2
-France,2012-06-01,New York MTA: take note!,5.0,2012,2
+France,2012-06-01,New York MTA: take note!,5.0,2012,0
 France,2012-06-01,THE way to get around the city - Best Metro in the World!,5.0,2012,2
 France,2012-04-01,BEST way to get around Paris!,5.0,2012,2
 Latvia,2023-10-01,Public transportation in Riga,1.0,2023,2
@@ -1573,7 +1573,7 @@ Malta,2023-09-01,I wish that the amount of passengers standing should be between
 Malta,2023-10-01,Cheap plentiful travel,5.0,2023,2
 Malta,2023-10-01,Public transport that runs on time,5.0,2023,2
 Malta,2023-10-01,Good albeit slow bus service,3.0,2023,2
-Malta,2023-10-01,The best I can say about MPT is that it is good it exists,3.0,2023,1
+Malta,2023-10-01,The best I can say about MPT is that it is good it exists,3.0,2023,2
 Malta,2023-10-01,Was waiting for the bus and didn’t stop the driver kept going,1.0,2023,0
 Malta,2023-10-01,Just use credit card and be prepared to wait a lot.,1.0,2023,1
 Malta,2023-10-01,Other transport options for tourists,3.0,2023,0
@@ -1582,16 +1582,16 @@ Malta,2023-10-01,Ehhhhh....pros and cons,3.0,2023,1
 Malta,2023-09-01,Worst transport ever AVOID!!!!,1.0,2023,0
 Malta,2023-09-01,Public transport Malta,5.0,2023,2
 Malta,2023-04-01,Good way to travel,5.0,2023,2
-Malta,2023-08-01,Finally a nice person and professional driver,5.0,2023,2
+Malta,2023-08-01,Finally a nice person and professional driver,5.0,2023,0
 Malta,2023-08-01,Excellent Bus Service..,5.0,2023,2
-Malta,2023-08-01,What's the point of having schedules if buses don't show up?,1.0,2023,0
+Malta,2023-08-01,What's the point of having schedules if buses don't show up?,1.0,2023,1
 Malta,2023-08-01,Worst public transport in Europe,1.0,2023,0
 Malta,2023-07-01,Great when it works,1.0,2023,2
 Malta,2023-08-01,Terrible transport!,1.0,2023,0
-Malta,2023-07-01,Rubbish bus service,1.0,2023,0
+Malta,2023-07-01,Rubbish bus service,1.0,2023,2
 Malta,2023-07-01,A real SHAME,1.0,2023,0
 Malta,2023-07-01,Complete joke,1.0,2023,0
-Malta,2023-07-01,Never going to visit Malta again. Dirty and ugly place,1.0,2023,0
+Malta,2023-07-01,Never going to visit Malta again. Dirty and ugly place,1.0,2023,2
 Malta,2023-07-01,Worst experience,1.0,2023,0
 Malta,2023-07-01,"Excellent Bus service,",5.0,2023,2
 Malta,2023-07-01,Horrible experience,1.0,2023,0
@@ -1599,21 +1599,21 @@ Malta,2023-07-01,Tallinja bus service-Malta,1.0,2023,2
 Malta,2023-07-01,Reliable and friendly drivers!,5.0,2023,2
 Malta,2023-07-01,What a crap service. Bus 51,1.0,2023,2
 Malta,2023-07-01,Poor timetable buses,1.0,2023,0
-Malta,2023-05-01,Cheap but timetables are useless,5.0,2023,0
+Malta,2023-05-01,Cheap but timetables are useless,5.0,2023,2
 Malta,2023-06-01,Worth to try.,3.0,2023,2
 Malta,2023-05-01,"Good bus service, research travel cards to get best value",5.0,2023,2
 Malta,2023-05-01,Buses that ignore passengers,1.0,2023,0
 Malta,2023-05-01,Bus v car hire,5.0,2023,2
 Malta,2023-05-01,Bus service,5.0,2023,2
-Malta,2023-05-01,Bus experience,5.0,2023,0
+Malta,2023-05-01,Bus experience,5.0,2023,2
 Malta,2023-04-01,"Impressive, Island wide transportation",5.0,2023,2
 Malta,2023-04-01,"Turismo Terroristico In Full season I don't know how can they transport many tourist, because in April is catastrophic",1.0,2023,0
-Malta,2023-04-01,Very bas experience with Malta buses,1.0,2023,0
+Malta,2023-04-01,Very bas experience with Malta buses,1.0,2023,2
 Malta,2023-03-01,Can be compared with the transport in India,1.0,2023,0
 Malta,2023-03-01,Great way to get around,5.0,2023,2
 Malta,2023-03-01,Excellent way to get around,5.0,2023,2
 Malta,2023-03-01,"Good system, but can be busy.",5.0,2023,2
-Malta,2023-03-01,Hot&could,1.0,2023,0
+Malta,2023-03-01,Hot&could,1.0,2023,2
 Malta,2023-03-01,Helpfulness for wheelchairs,1.0,2023,2
 Malta,2023-02-01,Weekly bus tickets,5.0,2023,2
 Malta,2023-02-01,Very good and Organised public transportation!!,5.0,2023,2
@@ -1632,7 +1632,7 @@ Malta,2022-10-01,Overall good experience,5.0,2022,2
 Malta,2022-10-01,Cheap and efficient,5.0,2022,2
 Malta,2022-10-01,Very efficient……..,5.0,2022,2
 Malta,2022-10-01,Holiday transport from airport,5.0,2022,2
-Malta,2022-10-01,Bus no stop,1.0,2022,0
+Malta,2022-10-01,Bus no stop,1.0,2022,2
 Malta,2022-10-01,Very simple,5.0,2022,2
 Malta,2022-09-01,A rather frustrating experience,3.0,2022,0
 Malta,2022-09-01,"Total desaster, extremely frustrating",1.0,2022,0
@@ -1643,11 +1643,11 @@ Malta,2022-08-01,A Great Way ti Get Around with Helpful Drivers,5.0,2022,2
 Malta,2022-09-01,the most impolite bus drivers in the world,1.0,2022,0
 Malta,2022-08-01,Malta transport is a joke,1.0,2022,2
 Malta,2022-08-01,"Fantastic - do yourself a favour see Malta, especially Valletta",5.0,2022,2
-Malta,2022-08-01,Thanks for the severe anxiety :),1.0,2022,0
+Malta,2022-08-01,Thanks for the severe anxiety :),1.0,2022,2
 Malta,2022-08-01,Avoid tallinja,1.0,2022,0
 Malta,2022-08-01,Excellent value transport,5.0,2022,2
 Malta,2022-07-01,Great value for money,5.0,2022,2
-Malta,2022-07-01,BUSES RUN BY CLOWNS,1.0,2022,0
+Malta,2022-07-01,BUSES RUN BY CLOWNS,1.0,2022,2
 Malta,2022-07-01,Puplic Transportation,5.0,2022,2
 Malta,2022-06-01,"Gets you to most parts of the island, as long as you don't have a deadline",3.0,2022,2
 Malta,2022-07-01,Very efficient and cheap,5.0,2022,2
@@ -1663,7 +1663,7 @@ Malta,2022-05-01,Easy to use,5.0,2022,2
 Malta,2022-06-01,Far nicer countries to visit. Greedy Maltese have no consideration for their main economy.,1.0,2022,0
 Malta,2022-05-01,Same problems as home,3.0,2022,1
 Malta,2022-05-01,Better than the UK,5.0,2022,2
-Malta,2022-05-01,dissapointed,1.0,2022,1
+Malta,2022-05-01,dissapointed,1.0,2022,0
 Malta,2022-04-01,Public transportation & Tallinja app,1.0,2022,2
 Malta,2022-04-01,The safest way to get around the islands,5.0,2022,2
 Malta,2022-04-01,Getting around Malta and Gozo,5.0,2022,2
@@ -1693,7 +1693,7 @@ Malta,2021-08-01,"Didn`t think it`s that bad, but it is!",1.0,2021,0
 Malta,2021-08-01,Worst transport service ever,1.0,2021,0
 Malta,2021-08-01,Malta touring,5.0,2021,2
 Malta,2021-08-01,"Buses late, contactless readers frequently don't work, mask wearing is very poor.",1.0,2021,0
-Malta,2021-08-01,Irregular and rude - sadly not great,1.0,2021,0
+Malta,2021-08-01,Irregular and rude - sadly not great,1.0,2021,1
 Malta,2021-07-01,Always late,1.0,2021,0
 Malta,2021-06-01,Great transportation in Malta,5.0,2021,2
 Malta,2021-06-01,Buses cheap and frequent,5.0,2021,2
@@ -1726,7 +1726,7 @@ Malta,2020-03-01,Good value,5.0,2020,2
 Malta,2020-03-01,Very Efficient and Cheap,5.0,2020,2
 Malta,2020-02-01,Easy,5.0,2020,2
 Malta,2020-02-01,You can go everywhere...,5.0,2020,2
-Malta,2020-02-01,Fraud,1.0,2020,2
+Malta,2020-02-01,Fraud,1.0,2020,0
 Malta,2020-02-01,7 day unlimited travel,5.0,2020,2
 Malta,2020-02-01,Don't use if solo - drivers don't stop at bus stops at night.,1.0,2020,0
 Malta,2020-02-01,Fabulous service credit to the country,5.0,2020,2
@@ -1736,9 +1736,9 @@ Malta,2020-02-01,Explore Card- cheap and pretty good option,5.0,2020,2
 Malta,2020-02-01,Best ever,5.0,2020,2
 Malta,2020-02-01,Good bus ride,5.0,2020,2
 Malta,2020-02-01,Use them but plan!!!,5.0,2020,2
-Malta,2020-01-01,Lots of buses,5.0,2020,0
+Malta,2020-01-01,Lots of buses,5.0,2020,2
 Malta,2020-02-01,Excellent service to all parts of the island,5.0,2020,2
-Malta,2020-02-01,Hit and miss - be patient!,3.0,2020,1
+Malta,2020-02-01,Hit and miss - be patient!,3.0,2020,0
 Malta,2020-01-01,Very modern,5.0,2020,2
 Malta,2020-02-01,Terrible service,1.0,2020,0
 Malta,2020-01-01,Very good service,5.0,2020,2
@@ -1770,11 +1770,11 @@ Malta,2019-12-01,Bus,1.0,2019,2
 Malta,2019-11-01,"Push, Push, On the Bus and Around Malta",3.0,2019,2
 Malta,2019-12-01,Top service,5.0,2019,2
 Malta,2019-12-01,"Efficient, and regular service that's cost effective",5.0,2019,2
-Malta,2019-07-01,No air Conditioning and cramped,3.0,2019,1
+Malta,2019-07-01,No air Conditioning and cramped,3.0,2019,2
 Malta,2019-12-01,excellent Public Transport,5.0,2019,2
 Malta,2019-12-01,Getting around malta,5.0,2019,2
 Malta,2019-10-01,Not worthy of a European Country,1.0,2019,0
-Malta,2019-12-01,Direct Busses,5.0,2019,1
+Malta,2019-12-01,Direct Busses,5.0,2019,2
 Malta,2019-12-01,Very reliable,5.0,2019,2
 Malta,2019-12-01,Cheap and cheerful,5.0,2019,2
 Malta,2019-12-01,Easy to get around,5.0,2019,2
@@ -1799,7 +1799,7 @@ Malta,2019-11-01,Local Buses,5.0,2019,2
 Malta,2019-10-01,Good transport,5.0,2019,2
 Malta,2019-11-01,No Change Here Them,1.0,2019,0
 Malta,2019-09-01,some drivers are unfrendly + scamming issue,1.0,2019,0
-Malta,2019-10-01,Usually very late but cheap €1.50 typically,5.0,2019,1
+Malta,2019-10-01,Usually very late but cheap €1.50 typically,5.0,2019,2
 Malta,2019-10-01,You might crash,1.0,2019,0
 Malta,2019-09-01,"Great prices, service sometimes disappointing",3.0,2019,2
 Malta,2019-10-01,Cheap and easy to use,5.0,2019,2
@@ -1821,7 +1821,7 @@ Malta,2019-10-01,Excellent,5.0,2019,2
 Malta,2019-10-01,Buses,3.0,2019,2
 Malta,2019-09-01,Good way to get around,5.0,2019,2
 Malta,2019-10-01,Buses go everywhere but timetable a laugh,5.0,2019,2
-Malta,2019-09-01,Anniversary celebrations,5.0,2019,2
+Malta,2019-09-01,Anniversary celebrations,5.0,2019,0
 Malta,2019-10-01,Good public transport system,3.0,2019,2
 Malta,2019-09-01,Frequent bus service,3.0,2019,2
 Malta,2019-10-01,Nice Public Transportation,5.0,2019,2
@@ -1859,7 +1859,7 @@ Malta,2019-09-01,Preferred old buses but cheap and plentiful,5.0,2019,2
 Malta,2019-09-01,"Excellent, frequent and cheap.",5.0,2019,2
 Malta,2019-09-01,Excellent Bus Service,5.0,2019,2
 Malta,2019-09-01,So easy to use,5.0,2019,2
-Malta,2019-09-01,Dissapointed,1.0,2019,1
+Malta,2019-09-01,Dissapointed,1.0,2019,0
 Malta,2019-09-01,"Good value, haphazard reliability",1.0,2019,2
 Malta,2019-09-01,Pretty efficient!,5.0,2019,2
 Malta,2019-09-01,Incredibly good value,5.0,2019,2
@@ -1868,11 +1868,11 @@ Malta,2019-09-01,Affordable and comfortable,3.0,2019,2
 Malta,2019-08-01,A great place,3.0,2019,2
 Malta,2019-08-01,Inexpensive way around Malta,5.0,2019,2
 Malta,2019-08-01,easy to use,5.0,2019,2
-Malta,2019-04-01,Nightmarish!,1.0,2019,2
+Malta,2019-04-01,Nightmarish!,1.0,2019,0
 Malta,2019-08-01,"Very good, and cheap",5.0,2019,2
 Malta,2019-03-01,Good value for money but punctuality leaves a lot to be desired.,5.0,2019,2
 Malta,2019-08-01,Malta bus system,5.0,2019,2
-Malta,2019-08-01,Much better than expected,5.0,2019,2
+Malta,2019-08-01,Much better than expected,5.0,2019,1
 Malta,2019-08-01,Was stolen from my a bus driver,1.0,2019,0
 Malta,2019-08-01,8 days in Malta,3.0,2019,2
 Malta,2019-08-01,Good Value for money but can be difficult to get sometimes,5.0,2019,2
@@ -1888,7 +1888,7 @@ Malta,2019-08-01,"Reliable, affordable service",5.0,2019,2
 Malta,2019-07-01,Low cost travel around Malta,5.0,2019,2
 Malta,2019-07-01,Horrifying experience,1.0,2019,0
 Malta,2019-07-01,Good convenient transport,5.0,2019,2
-Malta,2019-06-01,Good if you have no other alternative but too overcrowded,1.0,2019,0
+Malta,2019-06-01,Good if you have no other alternative but too overcrowded,1.0,2019,2
 Malta,2019-07-01,Locations to purchase bus passes out of date,3.0,2019,2
 Malta,2019-04-01,Buses!,5.0,2019,2
 Malta,2019-07-01,Great value for money.,5.0,2019,2
@@ -1909,7 +1909,7 @@ Malta,2019-06-01,Great way to get around the Island,5.0,2019,2
 Malta,2019-06-01,Make sure you buy a pass,5.0,2019,2
 Malta,2019-06-01,Rent a car,1.0,2019,0
 Malta,2019-05-01,In the country with the highest population density ...,1.0,2019,0
-Malta,2019-06-01,"Saving grace is that it's cheap, only €2 per journey.",3.0,2019,2
+Malta,2019-06-01,"Saving grace is that it's cheap, only €2 per journey.",3.0,2019,1
 Malta,2019-06-01,Super service,5.0,2019,2
 Malta,2019-06-01,"If you need to go somewhere with a bus, GOOD LUCK! (Take your day)",1.0,2019,2
 Malta,2019-06-01,An adventure,5.0,2019,2
@@ -1933,7 +1933,7 @@ Malta,2018-10-01,Dishonest scam,1.0,2018,0
 Malta,2019-05-01,Best value public transport I’ve found!,5.0,2019,2
 Malta,2019-05-01,Crowded often but a great and cheap service,5.0,2019,2
 Malta,2019-05-01,"Forget hop on hop off, buy tallinja card",5.0,2019,2
-Malta,2019-05-01,Found the app to be frustrating,3.0,2019,2
+Malta,2019-05-01,Found the app to be frustrating,3.0,2019,1
 Malta,2019-05-01,Horrible trip,1.0,2019,0
 Malta,2019-04-01,Poor Service Level and No Feedback after Filing a Complaint,1.0,2019,0
 Malta,2019-05-01,Bus trips,1.0,2019,2
@@ -1941,14 +1941,14 @@ Malta,2019-05-01,Really good way to travel the Island,5.0,2019,2
 Malta,2019-05-01,Maltas transportation,1.0,2019,2
 Malta,2019-05-01,Worthless,1.0,2019,0
 Malta,2018-06-01,Worst public transport in Europe,1.0,2018,0
-Malta,2019-04-01,Worse than 30 years ago,1.0,2019,1
+Malta,2019-04-01,Worse than 30 years ago,1.0,2019,0
 Malta,2019-05-01,It's awful transport system I've ever met,1.0,2019,0
 Malta,2019-05-01,Buy a bus travel card,5.0,2019,2
 Malta,2019-03-01,Bus times unpredictable,3.0,2019,2
 Malta,2019-04-01,An efficient means of transport all over Malta,5.0,2019,2
 Malta,2019-04-01,just ok,3.0,2019,1
 Malta,2019-04-01,The only way to travel,5.0,2019,2
-Malta,2019-04-01,Buses on time. Passengers don’t queue!!,5.0,2019,0
+Malta,2019-04-01,Buses on time. Passengers don’t queue!!,5.0,2019,2
 Malta,2019-04-01,Good value if you use for a week,5.0,2019,2
 Malta,2019-04-01,Only wat to travel around Valletta,5.0,2019,2
 Malta,2019-04-01,excellent value,5.0,2019,2
@@ -1963,7 +1963,7 @@ Malta,2019-04-01,Great way to Explore,5.0,2019,2
 Malta,2019-03-01,cheap- but not efficient,3.0,2019,2
 Malta,2019-04-01,DON’T USE THE BUSES,1.0,2019,2
 Malta,2019-04-01,malta buses,5.0,2019,2
-Malta,2019-04-01,Very good bits but also very bad bits,5.0,2019,1
+Malta,2019-04-01,Very good bits but also very bad bits,5.0,2019,2
 Malta,2019-03-01,Great Way to get around,5.0,2019,2
 Malta,2019-04-01,Not at all good!!,1.0,2019,2
 Malta,2019-04-01,Impossible to rate,1.0,2019,0
@@ -1985,7 +1985,7 @@ Malta,2019-03-01,Excellent public transport system,5.0,2019,2
 Malta,2019-03-01,Good service and cheap,5.0,2019,2
 Malta,2019-03-01,Very nice service and Quick!,5.0,2019,2
 Malta,2019-03-01,One week of buses,5.0,2019,2
-Malta,2019-03-01,The TD13,3.0,2019,1
+Malta,2019-03-01,The TD13,3.0,2019,2
 Malta,2019-03-01,Great but busy bus service,5.0,2019,2
 Malta,2019-03-01,Bussea,5.0,2019,2
 Malta,2018-12-01,Bus,5.0,2018,2
@@ -2018,7 +2018,7 @@ Malta,2019-01-01,Very easy,5.0,2019,2
 Malta,2019-01-01,Terrible,1.0,2019,0
 Malta,2019-01-01,Wow! So impressive,5.0,2019,2
 Malta,2018-12-01,What a nightmare,1.0,2018,0
-Malta,2019-01-01,much better than renting a car,5.0,2019,2
+Malta,2019-01-01,much better than renting a car,5.0,2019,0
 Malta,2018-11-01,Explorer Bus Card Malta,5.0,2018,2
 Malta,2019-01-01,Travel,5.0,2019,2
 Malta,2018-08-01,A really great way to see the island,5.0,2018,2
@@ -2032,7 +2032,7 @@ Malta,2018-12-01,"Excellent value, with online support, very easy to use",5.0,20
 Malta,2018-12-01,Travelling around the Island by Local Bus.,5.0,2018,2
 Malta,2018-12-01,Cannot Fault the Bus Service (Well one small criticism),5.0,2018,2
 Malta,2018-08-01,Risky Business,1.0,2018,2
-Malta,2018-12-01,Could Not Believe The Prices,5.0,2018,1
+Malta,2018-12-01,Could Not Believe The Prices,5.0,2018,2
 Malta,2018-12-01,Great way to get around,5.0,2018,2
 Malta,2018-12-01,Great way to Explore,5.0,2018,2
 Malta,2018-12-01,Very efficient,5.0,2018,2
@@ -2050,7 +2050,7 @@ Malta,2018-11-01,Good but busy,3.0,2018,2
 Malta,2018-11-01,Excellent bus service.,5.0,2018,2
 Malta,2018-11-01,The weekly pass,5.0,2018,2
 Malta,2018-11-01,Easy and good,5.0,2018,2
-Malta,2018-11-01,Malta is much much bigger than I thought but the mobile app never worked,3.0,2018,0
+Malta,2018-11-01,Malta is much much bigger than I thought but the mobile app never worked,3.0,2018,1
 Malta,2018-11-01,Excellent transport system,5.0,2018,2
 Malta,2018-11-01,Very convenient and efficient,5.0,2018,2
 Malta,2018-11-01,Cheap travel generally - Airport too,5.0,2018,2
@@ -2076,10 +2076,10 @@ Malta,2018-10-01,Terrible experience! Warning,1.0,2018,0
 Malta,2018-10-01,Not impressed,5.0,2018,2
 Malta,2018-10-01,Local transport,5.0,2018,2
 Malta,2018-10-01,Buy a card for 12 times,5.0,2018,2
-Malta,2018-10-01,An expetience to behold,5.0,2018,2
+Malta,2018-10-01,An expetience to behold,5.0,2018,0
 Malta,2018-10-01,Still needs another major overhaul,1.0,2018,1
-Malta,2018-10-01,Bring more busses to popular routes,3.0,2018,1
-Malta,2018-10-01,The Road to Nowhere,5.0,2018,2
+Malta,2018-10-01,Bring more busses to popular routes,3.0,2018,0
+Malta,2018-10-01,The Road to Nowhere,5.0,2018,1
 Malta,2018-10-01,Need more buses,1.0,2018,2
 Malta,2018-09-01,Good value but can be full,5.0,2018,2
 Malta,2018-10-01,An excellent public bus system,5.0,2018,2
@@ -2130,7 +2130,7 @@ Malta,2018-09-01,Do your homework,3.0,2018,2
 Malta,2018-07-01,"Excellent, relable and cheap",5.0,2018,2
 Malta,2018-04-01,"PUBLIC TRANSPORT GREAT, PLAN AHEAD TO GET MAXIMUM BENEFIT",5.0,2018,2
 Malta,2018-09-01,Efficient system gets you where you want to go,5.0,2018,2
-Malta,2018-09-01,Not delighted,1.0,2018,2
+Malta,2018-09-01,Not delighted,1.0,2018,0
 Malta,2018-08-01,"Thank you, Malta Public Transport!!!",5.0,2018,2
 Malta,2018-08-01,The best way to travel,5.0,2018,2
 Malta,2018-07-01,Very good flexible service,5.0,2018,2
@@ -2139,12 +2139,12 @@ Malta,2018-08-01,"Busy, cheap and infrequent",3.0,2018,2
 Malta,2018-08-01,Worst experience ever!!!!!,1.0,2018,0
 Malta,2018-08-01,Mainly good,5.0,2018,2
 Malta,2018-07-01,This should be your first purchase when you arrive at the airport!,5.0,2018,2
-Malta,2018-08-01,Hmmm very packed,3.0,2018,1
+Malta,2018-08-01,Hmmm very packed,3.0,2018,0
 Malta,2018-08-01,worst public transportation ever!,1.0,2018,0
 Malta,2018-08-01,"The worst Customer Service ever ! Madman driver, disrespectful attitude, foul language !",1.0,2018,0
-Malta,2018-08-01,Not Fit for Purpose,1.0,2018,0
+Malta,2018-08-01,Not Fit for Purpose,1.0,2018,2
 Malta,2018-08-01,Easy to use,5.0,2018,2
-Malta,2018-08-01,ExplorePlus Card: lacking information,3.0,2018,1
+Malta,2018-08-01,ExplorePlus Card: lacking information,3.0,2018,0
 Malta,2018-05-01,great way to get around,5.0,2018,2
 Malta,2018-07-01,Malta public transport.,3.0,2018,2
 Malta,2018-07-01,Very cheap €21.,3.0,2018,2
@@ -2165,7 +2165,7 @@ Malta,2018-06-01,The most dangerous drivers of my life!,1.0,2018,0
 Malta,2018-07-01,Easy to get around!,5.0,2018,2
 Malta,2018-07-01,Highly recommended!,5.0,2018,2
 Malta,2018-07-01,Horrible experience,1.0,2018,0
-Malta,2018-07-01,Much improved,5.0,2018,2
+Malta,2018-07-01,Much improved,5.0,2018,1
 Malta,2018-03-01,Good conection,5.0,2018,2
 Malta,2018-06-01,bus trips,5.0,2018,2
 Malta,2018-07-01,The Bus service was on time every time,5.0,2018,2
@@ -2176,12 +2176,12 @@ Malta,2018-06-01,Air Conditioning,5.0,2018,2
 Malta,2018-07-01,Busy buses but good service,3.0,2018,2
 Malta,2018-06-01,You can get to any place of interest on the buses,5.0,2018,2
 Malta,2018-07-01,Ok during the day. Night service a shambles,3.0,2018,1
-Malta,2018-06-01,very full buses.,5.0,2018,0
+Malta,2018-06-01,very full buses.,5.0,2018,2
 Malta,2018-06-01,Overcrowded,1.0,2018,0
 Malta,2018-05-01,Fantastic public transport system,5.0,2018,2
 Malta,2018-06-01,Not good!,3.0,2018,2
 Malta,2018-02-01,Tallinja Card,5.0,2018,2
-Malta,2018-06-01,Very overcrowded but fairly cheap compared to a taxi.,1.0,2018,0
+Malta,2018-06-01,Very overcrowded but fairly cheap compared to a taxi.,1.0,2018,2
 Malta,2018-05-01,Excellent good value,5.0,2018,2
 Malta,2018-05-01,Holy onto your seat,3.0,2018,1
 Malta,2018-06-01,Easy way to see Malta,5.0,2018,2
@@ -2195,7 +2195,7 @@ Malta,2018-05-01,Bues on Malta,3.0,2018,2
 Malta,2018-06-01,Good price but can be some dodgy service,3.0,2018,2
 Malta,2018-05-01,Cheap and generally good service,5.0,2018,2
 Malta,2018-05-01,Good Service,5.0,2018,2
-Malta,2018-05-01,Buses always packed!!,5.0,2018,0
+Malta,2018-05-01,Buses always packed!!,5.0,2018,2
 Malta,2018-05-01,Great!,5.0,2018,2
 Malta,2018-05-01,Get more buses from Bugibba to Gozo Ferry,3.0,2018,2
 Malta,2018-05-01,Seems to be Cheap and Efficient,5.0,2018,2
@@ -2208,13 +2208,13 @@ Malta,2018-05-01,Good value service,5.0,2018,2
 Malta,2018-05-01,Very easy to use,5.0,2018,2
 Malta,2018-05-01,Oh dear,1.0,2018,0
 Malta,2018-04-01,Good Network,5.0,2018,2
-Malta,2018-05-01,Holiday with friend,3.0,2018,1
+Malta,2018-05-01,Holiday with friend,3.0,2018,2
 Malta,2018-05-01,It's really a mixed story,3.0,2018,1
 Malta,2018-05-01,Malta bus travel - now a disgrace,1.0,2018,2
-Malta,2018-05-01,Rename To Sardine Public Transport,1.0,2018,0
-Malta,2018-05-01,NOT Pleasant - Crafty Grannies & Blatant Youths Barge in Front.,1.0,2018,1
+Malta,2018-05-01,Rename To Sardine Public Transport,1.0,2018,2
+Malta,2018-05-01,NOT Pleasant - Crafty Grannies & Blatant Youths Barge in Front.,1.0,2018,0
 Malta,2018-05-01,Not enough buses!,1.0,2018,2
-Malta,2018-05-01,Not a pleasant experience,1.0,2018,2
+Malta,2018-05-01,Not a pleasant experience,1.0,2018,0
 Malta,2018-05-01,Brilliant service,5.0,2018,2
 Malta,2018-05-01,great way to see the sites,5.0,2018,2
 Malta,2018-05-01,Public transport,5.0,2018,2
@@ -2225,7 +2225,7 @@ Malta,2018-03-01,The best public transport ever!,5.0,2018,2
 Malta,2018-05-01,Don't trust,1.0,2018,0
 Malta,2018-05-01,"Inexpensive, but busy",5.0,2018,2
 Malta,2018-05-01,Horrible... we should have rented a car,1.0,2018,0
-Malta,2018-04-01,High value for money - low price and low quality,3.0,2018,2
+Malta,2018-04-01,High value for money - low price and low quality,3.0,2018,1
 Malta,2018-05-01,Inexpensive way to travel around Malta.,5.0,2018,2
 Malta,2018-05-01,Cheaper if you're exploring,5.0,2018,2
 Malta,2018-04-01,Inexpensive and but you need to plan your trips in advance,3.0,2018,2
@@ -2236,16 +2236,16 @@ Malta,2018-04-01,Easy to use and cheap,5.0,2018,2
 Malta,2018-04-01,"Relaible for an island, but far from great",3.0,2018,2
 Malta,2018-04-01,Little supply for too many demands,1.0,2018,0
 Malta,2018-03-01,Perfect,5.0,2018,2
-Malta,2018-04-01,"Tardy, slow and too little capacity",1.0,2018,0
+Malta,2018-04-01,"Tardy, slow and too little capacity",1.0,2018,1
 Malta,2018-04-01,"Rough, crowded, infrequent and unreliable",1.0,2018,0
 Malta,2018-04-01,continually packed and slow - but cheap,3.0,2018,1
 Malta,2018-04-01,You have to experience a trip on a bus in Malta,5.0,2018,2
-Malta,2018-04-01,Could be better,3.0,2018,1
+Malta,2018-04-01,Could be better,3.0,2018,2
 Malta,2018-04-01,One of the best in the world,5.0,2018,2
 Malta,2018-04-01,the week bus pass at €21 is great value,5.0,2018,2
 Malta,2017-10-01,"Really inconsistent, unfriendly, and so slow",1.0,2017,0
 Malta,2018-04-01,Great!,5.0,2018,2
-Malta,2018-04-01,Timetables for decoration only...l,5.0,2018,0
+Malta,2018-04-01,Timetables for decoration only...l,5.0,2018,2
 Malta,2018-04-01,Karel,1.0,2018,0
 Malta,2018-04-01,Cheap and cheerful,5.0,2018,2
 Malta,2018-04-01,Good Bus Network,3.0,2018,2
@@ -2259,12 +2259,12 @@ Malta,2018-04-01,Please reas before planning a trip to Malta!!,1.0,2018,2
 Malta,2018-03-01,Cheap and crammed,1.0,2018,2
 Malta,2018-04-01,Poor customer service,1.0,2018,0
 Malta,2018-03-01,Good way to get around.,5.0,2018,2
-Malta,2018-03-01,Pay for 12 but only get 8 and 2 Halves,1.0,2018,2
+Malta,2018-03-01,Pay for 12 but only get 8 and 2 Halves,1.0,2018,0
 Malta,2018-04-01,Good Service,5.0,2018,2
 Malta,2018-03-01,Efficient and very good value,5.0,2018,2
 Malta,2018-03-01,Reasonable and overall good value,5.0,2018,2
 Malta,2018-03-01,"Reasonably priced, not reliable at times and overcrowded buses",3.0,2018,2
-Malta,2018-03-01,Potentially great but some issues,3.0,2018,2
+Malta,2018-03-01,Potentially great but some issues,3.0,2018,1
 Malta,2018-03-01,Disappointing,1.0,2018,0
 Malta,2018-03-01,Terrible terrible experience,1.0,2018,0
 Malta,2018-03-01,Very unreliable,1.0,2018,0
@@ -2284,7 +2284,7 @@ Malta,2018-03-01,Great bus service,5.0,2018,2
 Malta,2018-03-01,Mixed Experienced,3.0,2018,1
 Malta,2018-03-01,CHEAP & CHEERFUL,5.0,2018,2
 Malta,2018-03-01,Forget Hiring A Car,5.0,2018,2
-Malta,2018-03-01,Prang,3.0,2018,1
+Malta,2018-03-01,Prang,3.0,2018,2
 Malta,2018-03-01,The worst public transport ever,1.0,2018,0
 Malta,2018-03-01,Good Value,5.0,2018,2
 Malta,2018-03-01,Getting about,5.0,2018,2
@@ -2306,7 +2306,7 @@ Malta,2018-02-01,Easy and convenient!,5.0,2018,2
 Malta,2018-02-01,PRE-PLAN YOUR TRIPS USING THE PUBLIC TRANSPORT WEBSITE,5.0,2018,2
 Malta,2018-02-01,Great value,5.0,2018,2
 Malta,2018-02-01,well run,5.0,2018,2
-Malta,2018-02-01,Modern buses with a Maltese view on efficiency!,3.0,2018,1
+Malta,2018-02-01,Modern buses with a Maltese view on efficiency!,3.0,2018,2
 Malta,2018-02-01,Great way to travel,5.0,2018,2
 Malta,2018-02-01,Poor public transport service,1.0,2018,0
 Malta,2018-02-01,Great way to get around the island,5.0,2018,2
@@ -2335,7 +2335,7 @@ Malta,2018-01-01,"Fast, value for money, busy at peak times, prepare to stand!",
 Malta,2017-05-01,Cheap and clean,5.0,2017,2
 Malta,2017-11-01,Cheap way to get around town but often very CROWDED,5.0,2017,2
 Malta,2017-03-01,good transport,5.0,2017,2
-Malta,2017-12-01,great to visit Malta - huge potential for improvement,3.0,2017,1
+Malta,2017-12-01,great to visit Malta - huge potential for improvement,3.0,2017,2
 Malta,2017-12-01,Cheap,5.0,2017,2
 Malta,2017-12-01,What's not to like?,5.0,2017,2
 Malta,2017-12-01,Cheap,3.0,2017,2
@@ -2354,12 +2354,12 @@ Malta,2017-11-01,"You’ll get there, eventually...",3.0,2017,2
 Malta,2017-11-01,overcrowded buses(packed like sardines),3.0,2017,0
 Malta,2017-10-01,Marvellous!,5.0,2017,2
 Malta,2017-11-01,Good transport system,5.0,2017,2
-Malta,2017-11-01,Ovecrowded buses.,1.0,2017,0
+Malta,2017-11-01,Ovecrowded buses.,1.0,2017,2
 Malta,2017-06-01,Public transport are terrible !,1.0,2017,0
 Malta,2017-11-01,Worst public transport,1.0,2017,0
 Malta,2017-11-01,Great way to get around Malta,5.0,2017,2
 Malta,2017-11-01,various bus rides around malta,1.0,2017,2
-Malta,2017-11-01,Good and bad,3.0,2017,1
+Malta,2017-11-01,Good and bad,3.0,2017,2
 Malta,2017-11-01,Buses,5.0,2017,2
 Malta,2017-11-01,"Bad experience, otherwise best bus service",5.0,2017,2
 Malta,2017-10-01,Well worth it.,5.0,2017,2
@@ -2373,11 +2373,11 @@ Malta,2017-10-01,Good way to get around but slow,5.0,2017,2
 Malta,2017-10-01,Convenient yet crowded,5.0,2017,2
 Malta,2017-10-01,Well covered,3.0,2017,2
 Malta,2017-10-01,Cheap holiday travel,5.0,2017,2
-Malta,2017-10-01,Horrible 5 days with Malta Public Transport,1.0,2017,0
+Malta,2017-10-01,Horrible 5 days with Malta Public Transport,1.0,2017,2
 Malta,2017-10-01,Be prepared to stand in busy months,5.0,2017,1
 Malta,2017-10-01,2 euros for 2 hours of access,5.0,2017,2
 Malta,2017-10-01,Mixed experiece,3.0,2017,1
-Malta,2017-10-01,Be prepared to wait,3.0,2017,0
+Malta,2017-10-01,Be prepared to wait,3.0,2017,1
 Malta,2017-08-01,very easy and very worthwhile,5.0,2017,2
 Malta,2017-10-01,Don't assume reliability,1.0,2017,2
 Malta,2017-10-01,A decent enough transport network for the Island,3.0,2017,2
@@ -2389,7 +2389,7 @@ Malta,2017-09-01,Cheap travel,5.0,2017,2
 Malta,2017-06-01,Useful for tourists,5.0,2017,2
 Malta,2017-10-01,Bus service,5.0,2017,2
 Malta,2017-09-01,Get around - get a Tallinja!,5.0,2017,2
-Malta,2017-09-01,manic,3.0,2017,1
+Malta,2017-09-01,manic,3.0,2017,2
 Malta,2017-09-01,Steady as you go,5.0,2017,2
 Malta,2017-10-01,"wow, fast, bumpy, uncomfortable",1.0,2017,0
 Malta,2017-10-01,Never on time,3.0,2017,0
@@ -2399,7 +2399,7 @@ Malta,2017-09-01,praised by locals and tourists,5.0,2017,2
 Malta,2017-09-01,Buy a weekly ticket,5.0,2017,2
 Malta,2017-09-01,Reliable and safe,5.0,2017,2
 Malta,2017-09-01,Great value,5.0,2017,2
-Malta,2017-09-01,Things don't change,3.0,2017,1
+Malta,2017-09-01,Things don't change,3.0,2017,2
 Malta,2017-09-01,Very good,5.0,2017,2
 Malta,2017-09-01,Very good network which takes you to most places,5.0,2017,2
 Malta,2017-09-01,Efficient transport,5.0,2017,2
@@ -2428,12 +2428,12 @@ Malta,2017-08-01,Really worth it.,5.0,2017,2
 Malta,2017-05-01,Best way to get around the country by far!!!!,5.0,2017,2
 Malta,2017-08-01,Bad service,1.0,2017,0
 Malta,2017-07-01,Frequent and good value,5.0,2017,2
-Malta,2017-08-01,You have to be patient,1.0,2017,1
+Malta,2017-08-01,You have to be patient,1.0,2017,0
 Malta,2017-07-01,worth it,5.0,2017,2
 Malta,2017-08-01,Worst public transport ever,1.0,2017,0
 Malta,2017-07-01,Well organised public transport,5.0,2017,2
 Malta,2017-07-01,Explore Plus card 30euros NOT worth it,3.0,2017,2
-Malta,2016-09-01,All roads lead to Rome!,5.0,2016,1
+Malta,2016-09-01,All roads lead to Rome!,5.0,2016,2
 Malta,2017-08-01,Tour the island for next to nothing.,5.0,2017,2
 Malta,2017-07-01,The buses are too small,1.0,2017,2
 Malta,2017-07-01,the best way to get around Malta,5.0,2017,2
@@ -2483,7 +2483,7 @@ Malta,2017-05-01,Great way to travel,5.0,2017,2
 Malta,2017-06-01,Amazing bus service,5.0,2017,2
 Malta,2017-05-01,Excellent Way To Get Around Malta & Gozo,5.0,2017,2
 Malta,2017-05-01,Easiest way to travel around the country,5.0,2017,2
-Malta,2017-05-01,MAY 2017 VISIT,5.0,2017,0
+Malta,2017-05-01,MAY 2017 VISIT,5.0,2017,2
 Malta,2016-12-01,Good Bus Service,5.0,2016,2
 Malta,2017-05-01,God send,5.0,2017,2
 Malta,2017-05-01,Excellent Service!,5.0,2017,2
@@ -2507,8 +2507,8 @@ Malta,2017-05-01,Really cheap !,5.0,2017,2
 Malta,2017-05-01,Excellent way to see Malta,5.0,2017,2
 Malta,2017-05-01,Best way to explore Malta,5.0,2017,2
 Malta,2017-04-01,Bus is the best way to explore Malta,5.0,2017,2
-Malta,2017-05-01,The overall experience for an expat after 2 years in Malta,3.0,2017,1
-Malta,2017-04-01,Some drivers better than others,3.0,2017,0
+Malta,2017-05-01,The overall experience for an expat after 2 years in Malta,3.0,2017,0
+Malta,2017-04-01,Some drivers better than others,3.0,2017,1
 Malta,2017-05-01,Superb,5.0,2017,2
 Malta,2017-05-01,Public transport,3.0,2017,2
 Malta,2017-05-01,Cheap and eliable,5.0,2017,2
@@ -2516,7 +2516,7 @@ Malta,2017-05-01,"Poor service, you'll never know if you will be on time",1.0,20
 Malta,2017-05-01,WORST public transportation service ever,1.0,2017,0
 Malta,2017-04-01,Amazing Service,5.0,2017,2
 Malta,2017-05-01,Don't hire a car - use the bus,5.0,2017,2
-Malta,2017-04-01,A long walk,5.0,2017,0
+Malta,2017-04-01,A long walk,5.0,2017,1
 Malta,2017-04-01,Very Good!!!,5.0,2017,2
 Malta,2017-04-01,Easter 2017,5.0,2017,2
 Malta,2017-04-01,Convenient transportation,5.0,2017,2
@@ -2525,7 +2525,7 @@ Malta,2017-04-01,bargain buy a weekly pass for 20 odd euros and go everywhere ex
 Malta,2017-04-01,"Don't even think about it, get it.",5.0,2017,2
 Malta,2017-04-01,One euro fifty? You must be joking!,5.0,2017,2
 Malta,2017-04-01,Fab but crushing,5.0,2017,2
-Malta,2017-04-01,Service covers most parts of the island and not expensive BUT...,1.0,2017,0
+Malta,2017-04-01,Service covers most parts of the island and not expensive BUT...,1.0,2017,2
 Malta,2017-02-01,Great Deal,5.0,2017,2
 Malta,2017-04-01,"Comprehensive network, efficiently run and good value",5.0,2017,2
 Malta,2017-04-01,Cheap and reliable,3.0,2017,2
@@ -2534,14 +2534,14 @@ Malta,2017-04-01,An outstanding public service!,5.0,2017,2
 Malta,2017-04-01,Excellent way to see the island!,5.0,2017,2
 Malta,2017-04-01,A very efficient and well managed company,5.0,2017,2
 Malta,2017-04-01,How to see Malta cheaply !!!!!,5.0,2017,2
-Malta,2017-04-01,"Crowded buses, against the timetable",1.0,2017,0
+Malta,2017-04-01,"Crowded buses, against the timetable",1.0,2017,2
 Malta,2017-04-01,holiday visit,5.0,2017,2
 Malta,2017-04-01,Easy to use,5.0,2017,2
 Malta,2017-04-01,Said to be modernised - well the buses look new,1.0,2017,0
 Malta,2017-03-01,Excellent Network - Big Delays - Lazy Bus Drivers,1.0,2017,0
 Malta,2017-04-01,Nae Fuss on the Bus,5.0,2017,2
-Malta,2017-04-01,Good and Bad,3.0,2017,1
-Malta,2017-03-01,Mixed Feelings,5.0,2017,1
+Malta,2017-04-01,Good and Bad,3.0,2017,2
+Malta,2017-03-01,Mixed Feelings,5.0,2017,2
 Malta,2017-04-01,Cheap but rubbish,1.0,2017,2
 Malta,2017-04-01,We were waiting for long time. All buses were full or out of service. In the end we need to call ecabs.,1.0,2017,0
 Malta,2017-04-01,best value for your money,5.0,2017,2
@@ -2573,13 +2573,13 @@ Malta,2017-03-01,Brilliant services!,5.0,2017,2
 Malta,2017-01-01,Took the bus everywhere,5.0,2017,2
 Malta,2017-03-01,Convenient and Reliable,5.0,2017,2
 Malta,2017-03-01,Used it only one but good and efficient,3.0,2017,2
-Malta,2017-02-01,"it's getting better, slowly, but Malta needs a Monorail!",5.0,2017,1
+Malta,2017-02-01,"it's getting better, slowly, but Malta needs a Monorail!",5.0,2017,2
 Malta,2017-03-01,Covered all of Malta so easily.,5.0,2017,2
 Malta,2017-03-01,"Great value, incredible bus drivers",5.0,2017,2
 Malta,2017-03-01,All roads lead to Valetta,5.0,2017,2
-Malta,2017-03-01,rather goof connections,5.0,2017,1
+Malta,2017-03-01,rather goof connections,5.0,2017,2
 Malta,2017-03-01,"Reliable, cheap and easy to use",5.0,2017,2
-Malta,2017-03-01,Could be better,3.0,2017,1
+Malta,2017-03-01,Could be better,3.0,2017,2
 Malta,2017-03-01,Well worth the ride at reasonable prices,5.0,2017,2
 Malta,2017-03-01,Tallinja Card makes easy travelling,5.0,2017,2
 Malta,2017-03-01,Incredible fares and can get you everywhere,5.0,2017,2
@@ -2603,12 +2603,12 @@ Malta,2017-02-01,"Cheap, Efficient, Well Organised.",5.0,2017,2
 Malta,2017-02-01,Grest way to explore,5.0,2017,2
 Malta,2017-02-01,Good way to travel.,5.0,2017,2
 Malta,2017-02-01,"Great buses, cheap and frequent.",5.0,2017,2
-Malta,2017-02-01,Need more buses on busy routes,3.0,2017,1
+Malta,2017-02-01,Need more buses on busy routes,3.0,2017,2
 Malta,2016-10-01,Best way to get around,5.0,2016,2
-Malta,2017-02-01,Don't bother with expensive 'hop on/off' buses,5.0,2017,0
+Malta,2017-02-01,Don't bother with expensive 'hop on/off' buses,5.0,2017,2
 Malta,2017-02-01,Fantastic value,5.0,2017,2
 Malta,2017-02-01,Great public transport,5.0,2017,2
-Malta,2017-01-01,Apply online for longer stays,5.0,2017,0
+Malta,2017-01-01,Apply online for longer stays,5.0,2017,2
 Malta,2017-01-01,"Buses come and go, but getting off is a lottery",3.0,2017,2
 Malta,2017-01-01,The best way to get around the Island,5.0,2017,2
 Malta,2017-01-01,Good way to travel in the island,5.0,2017,2
@@ -2636,12 +2636,12 @@ Malta,2016-12-01,excellent service,5.0,2016,2
 Malta,2017-01-01,consistently late and overcrowded,1.0,2017,0
 Malta,2016-12-01,Electric taxis,5.0,2016,2
 Malta,2016-12-01,Malta buses,1.0,2016,2
-Malta,2016-12-01,A lot better than years ago,5.0,2016,1
+Malta,2016-12-01,A lot better than years ago,5.0,2016,0
 Malta,2016-05-01,easy to use,5.0,2016,2
 Malta,2017-01-01,Public transport.,5.0,2017,2
 Malta,2016-12-01,Pretty good and economical bus service - pity about the officials!,3.0,2016,2
 Malta,2016-12-01,safety on the buses,1.0,2016,0
-Malta,2016-12-01,Overloaded buses that do not keep to a schedule,1.0,2016,0
+Malta,2016-12-01,Overloaded buses that do not keep to a schedule,1.0,2016,2
 Malta,2016-12-01,Triy the buses and lifts: they work well.,5.0,2016,2
 Malta,2016-12-01,Good value,3.0,2016,2
 Malta,2016-11-01,Needs loads of improvement,1.0,2016,1
@@ -2651,7 +2651,7 @@ Malta,2016-12-01,Cheap and a great way of getting around,5.0,2016,2
 Malta,2016-11-01,Good value.,5.0,2016,2
 Malta,2016-04-01,Buses are great,5.0,2016,2
 Malta,2016-11-01,Best way to get around,5.0,2016,2
-Malta,2016-12-01,Honest driver! found and gave back my husbands wallet intact,5.0,2016,0
+Malta,2016-12-01,Honest driver! found and gave back my husbands wallet intact,5.0,2016,1
 Malta,2016-09-01,Excellent,5.0,2016,2
 Malta,2016-04-01,Great way to get around,5.0,2016,2
 Malta,2016-11-01,Cheap way to get around Malta.,5.0,2016,2
@@ -2659,7 +2659,7 @@ Malta,2016-09-01,Very good service and reasonably priced,5.0,2016,2
 Malta,2016-11-01,Good Bus Service,5.0,2016,2
 Malta,2016-11-01,Problems with bus,3.0,2016,2
 Malta,2016-11-01,Perfect system,5.0,2016,2
-Malta,2016-09-01,Incredible Service Under very difficult circumstances,5.0,2016,2
+Malta,2016-09-01,Incredible Service Under very difficult circumstances,5.0,2016,0
 Malta,2016-11-01,Good service BUT !,3.0,2016,2
 Malta,2016-10-01,Good quality,5.0,2016,2
 Malta,2016-10-01,Bus 'stations' usually have different places for arriving and departing buses!,5.0,2016,2
@@ -2682,16 +2682,16 @@ Malta,2016-10-01,The old uses were so much better,1.0,2016,2
 Malta,2016-10-01,Great idea and can be shared by a couple,5.0,2016,2
 Malta,2016-10-01,great value.,5.0,2016,2
 Malta,2016-10-01,Timetables! Beware,3.0,2016,0
-Malta,2016-10-01,7 days without a worry where to park a car,5.0,2016,2
+Malta,2016-10-01,7 days without a worry where to park a car,5.0,2016,0
 Malta,2016-02-01,Good idea.,5.0,2016,2
-Malta,2016-06-01,Not respected schedule,1.0,2016,0
+Malta,2016-06-01,Not respected schedule,1.0,2016,2
 Malta,2016-10-01,Buy the bargain explore card if your not renting a car,5.0,2016,2
 Malta,2016-10-01,Good value for money,5.0,2016,2
 Malta,2016-10-01,Cheap and efficient. Bus terminal right next to city gates.,5.0,2016,2
-Malta,2016-10-01,"Aspirational timetables, driver shortages and traffic chaos",1.0,2016,0
+Malta,2016-10-01,"Aspirational timetables, driver shortages and traffic chaos",1.0,2016,1
 Malta,2016-10-01,Nice travel to/from Valetta,5.0,2016,2
 Malta,2016-10-01,Enjoy the bus,5.0,2016,2
-Malta,2016-10-01,Timetables are a work of fiction on most days.,3.0,2016,0
+Malta,2016-10-01,Timetables are a work of fiction on most days.,3.0,2016,1
 Malta,2016-10-01,New buses are great.,5.0,2016,2
 Malta,2016-10-01,Excellent service,5.0,2016,2
 Malta,2016-10-01,Great way to get about.,5.0,2016,2
@@ -2704,8 +2704,8 @@ Malta,2016-10-01,"Excellent, Air-Conditioned And Cheap - But Read The Timetables
 Malta,2016-10-01,Terrible Driver Today,1.0,2016,0
 Malta,2016-10-01,excellent way to get around the island,5.0,2016,2
 Malta,2016-10-01,Best thing!,5.0,2016,2
-Malta,2016-10-01,Hit and miss,3.0,2016,1
-Malta,2016-10-01,Lots of buses - but crowded at times,5.0,2016,0
+Malta,2016-10-01,Hit and miss,3.0,2016,0
+Malta,2016-10-01,Lots of buses - but crowded at times,5.0,2016,2
 Malta,2016-09-01,"Goes everywhere, on time and cheap.",5.0,2016,2
 Malta,2016-10-01,a geat way to see malta,5.0,2016,2
 Malta,2016-09-01,A bargain,5.0,2016,2
@@ -2751,7 +2751,7 @@ Norway,2019-11-01,A must for Museum aficionados,5.0,2019,2
 Norway,2019-11-01,Worth it if you plan to visit 4 or more museums on a day,5.0,2019,2
 Norway,2019-10-01,"Very good idea if you want to make the most of museums in one, two or three days",5.0,2019,2
 Norway,2019-10-01,Most of Oslo attractions and all public transportation included!,5.0,2019,2
-Norway,2019-07-01,Waste of time and money!,3.0,2019,0
+Norway,2019-07-01,Waste of time and money!,3.0,2019,2
 Norway,2019-08-01,Very good value,5.0,2019,2
 Norway,2019-08-01,Good for Museum lovers,5.0,2019,2
 Norway,2019-07-01,Highly Recommend!!,5.0,2019,2
@@ -2759,7 +2759,7 @@ Norway,2019-06-01,It made our visit so simple.,5.0,2019,2
 Norway,2019-06-01,"Great for a flexible schedule, Local Customer Service could be better",5.0,2019,2
 Norway,2019-07-01,Easy to get online and quick to activate in Oslo,5.0,2019,2
 Norway,2019-06-01,Well worth the Cost,5.0,2019,2
-Norway,2019-06-01,Visit up to 36 (or however many you can fit in) with free transport inbetween,5.0,2019,0
+Norway,2019-06-01,Visit up to 36 (or however many you can fit in) with free transport inbetween,5.0,2019,2
 Norway,2019-05-01,scandinavia,5.0,2019,2
 Norway,2019-06-01,Download the Oslo Pass booklet and do the math,5.0,2019,2
 Norway,2019-05-01,Fantastic!!!,5.0,2019,2
@@ -2769,7 +2769,7 @@ Norway,2018-06-01,Oslo City Pass,5.0,2018,2
 Norway,2018-06-01,So worth it!,5.0,2018,2
 Norway,2018-05-01,a rip off if you as me!,1.0,2018,0
 Norway,2018-05-01,"Great value, saving a lot of time AND money",5.0,2018,2
-Poland,2022-09-01,Gorgeous stations and journey,5.0,2022,0
+Poland,2022-09-01,Gorgeous stations and journey,5.0,2022,2
 Poland,2022-12-01,WAW,5.0,2022,2
 Poland,2022-08-01,Warsaw Underground,3.0,2022,2
 Poland,2022-08-01,Good way to commute,3.0,2022,2
@@ -2786,7 +2786,7 @@ Poland,2018-07-01,Easy to use,5.0,2018,2
 Poland,2018-06-01,Astonishing Clean,5.0,2018,2
 Poland,2017-12-01,Nice subway,5.0,2017,2
 Poland,2017-05-01,good system,5.0,2017,2
-Poland,2017-05-01,Means to an end,5.0,2017,2
+Poland,2017-05-01,Means to an end,5.0,2017,0
 Poland,2017-05-01,It is important to buy the one day pass ticket,5.0,2017,2
 Poland,2017-04-01,Easy to use and low cost,5.0,2017,2
 Poland,2017-04-01,It is New,5.0,2017,2
@@ -2795,7 +2795,7 @@ Poland,2016-10-01,Nothing extraordinary.,3.0,2016,2
 Poland,2016-08-01,"Clean, efficient and cheap",5.0,2016,2
 Poland,2016-10-01,Clean and new,5.0,2016,2
 Poland,2016-09-01,To be seen,3.0,2016,2
-Slovenia,2023-04-01,Worst public transport system I ever see.,1.0,2023,0
+Slovenia,2023-04-01,Worst public transport system I ever see.,1.0,2023,2
 Slovenia,2022-07-01,75 % not on time,1.0,2022,2
 Slovenia,2022-07-01,Unreliable,1.0,2022,0
 Slovenia,2019-10-01,Clean and on time,5.0,2019,2
@@ -2821,7 +2821,7 @@ Spain,2022-09-01,Pickpocket,1.0,2022,2
 Spain,2022-07-01,Great way to get around Barcelona!,5.0,2022,2
 Spain,2022-06-01,Enthusiast heaven,5.0,2022,2
 Spain,2022-04-01,"Clean, On time and Organised",5.0,2022,2
-Spain,2022-02-01,Handy but dated,3.0,2022,1
+Spain,2022-02-01,Handy but dated,3.0,2022,0
 Spain,2021-11-01,Transport,5.0,2021,2
 Spain,2021-10-01,Good and easy transportation,5.0,2021,2
 Spain,2021-07-01,Easy to buy tickets and navigate,5.0,2021,2
@@ -2855,12 +2855,12 @@ Spain,2019-09-01,Subway,5.0,2019,2
 Spain,2019-08-01,Nice Metro station,5.0,2019,2
 Spain,2019-07-01,Amazing public transport,5.0,2019,2
 Spain,2019-08-01,Simple and well-priced,5.0,2019,2
-Spain,2019-08-01,Avoid the the Barcelona Metro,1.0,2019,2
+Spain,2019-08-01,Avoid the the Barcelona Metro,1.0,2019,0
 Spain,2019-07-01,Beware of Pick Pocketers,1.0,2019,0
 Spain,2019-08-01,Ticketing system is awful,3.0,2019,0
 Spain,2019-07-01,"Scam everywhere, be careful",1.0,2019,0
 Spain,2019-07-01,Efficient,5.0,2019,2
-Spain,2019-05-01,Airport Train/Metro Transfer -- Be Careful!,3.0,2019,1
+Spain,2019-05-01,Airport Train/Metro Transfer -- Be Careful!,3.0,2019,2
 Spain,2019-04-01,"Clean, Quick, Safe, Efficient Metro - so easy to use!",5.0,2019,2
 Spain,2019-06-01,"Good, Clean, Safe, and Nicely Run Subway System....",5.0,2019,2
 Spain,2019-06-01,"Great way to get around the city, dense network!",5.0,2019,2
@@ -2874,7 +2874,7 @@ Spain,2019-03-01,Convenient transport around the city,5.0,2019,2
 Spain,2019-05-01,EASY way to get around the city,5.0,2019,2
 Spain,2019-04-01,Cheap & easy to get around the City,5.0,2019,2
 Spain,2019-05-01,Easy To Use,5.0,2019,2
-Spain,2019-05-01,Be careful buying your Metro ticket,1.0,2019,0
+Spain,2019-05-01,Be careful buying your Metro ticket,1.0,2019,2
 Spain,2019-05-01,Excellent way to move around this beautiful city.,5.0,2019,2
 Spain,2019-05-01,Easy to use and wfficient,5.0,2019,2
 Spain,2019-05-01,Sarge the plank,5.0,2019,2
@@ -2882,7 +2882,7 @@ Spain,2019-05-01,Amazing value,5.0,2019,2
 Spain,2018-11-01,Frequent and clean,5.0,2018,2
 Spain,2019-04-01,Great metro BUT got robbed,3.0,2019,2
 Spain,2019-04-01,Barcelona Metro system is a Pick-pockets dream!,1.0,2019,0
-Spain,2019-04-01,If a man drops coins in front of you look behind you,5.0,2019,1
+Spain,2019-04-01,If a man drops coins in front of you look behind you,5.0,2019,0
 Spain,2019-03-01,Tips of the Metro,5.0,2019,2
 Spain,2019-03-01,Metro stop at airport requires walking across crosswalk,3.0,2019,1
 Spain,2019-03-01,Fast inexpensive and convenient transfer on R2 Nord train from terminal 2 at BCN; 30 minutes to heart of city,5.0,2019,2
@@ -2921,7 +2921,7 @@ Spain,2018-09-01,Easy to use,5.0,2018,2
 Spain,2018-10-01,Easy to use public transportation,5.0,2018,2
 Spain,2018-09-01,Excellent transport system,5.0,2018,2
 Spain,2018-09-01,Pickpockets are rampant so take care!,3.0,2018,0
-Spain,2017-10-01,"A bit confusing, but it will do the work.",3.0,2017,1
+Spain,2017-10-01,"A bit confusing, but it will do the work.",3.0,2017,2
 Spain,2017-10-01,Great way to travel in Barcelona,5.0,2017,2
 Spain,2018-04-01,A great way to explore the city,5.0,2018,2
 Spain,2018-09-01,Efficient service but breeding with pickpockets,3.0,2018,2
@@ -2970,7 +2970,7 @@ Spain,2018-03-01,Easy to Use,5.0,2018,2
 Spain,2018-04-01,Very good and frequent,5.0,2018,2
 Spain,2018-04-01,Cheap and easy way to get around the city,5.0,2018,2
 Spain,2018-04-01,Metro and Buses are a real Bargain!,5.0,2018,2
-Spain,2018-04-01,Be careful!,3.0,2018,0
+Spain,2018-04-01,Be careful!,3.0,2018,2
 Spain,2018-04-01,Stolen wallet,1.0,2018,0
 Spain,2018-04-01,Cheaper metro- airport to hotel,5.0,2018,2
 Spain,2018-03-01,Great Subway System,5.0,2018,2
@@ -2981,11 +2981,11 @@ Spain,2017-07-01,It's a good one,5.0,2017,2
 Spain,2018-01-01,Great way to visit Barcelona !,5.0,2018,2
 Spain,2018-02-01,All the stops we used had street to stop lifts,5.0,2018,0
 Spain,2018-01-01,A very good Metro system.,5.0,2018,2
-Spain,2018-01-01,Getting from airport to Sagrada Familia or Ibis Barcelona Centro and other tips,5.0,2018,1
+Spain,2018-01-01,Getting from airport to Sagrada Familia or Ibis Barcelona Centro and other tips,5.0,2018,2
 Spain,2018-01-01,Fast and safe,5.0,2018,2
 Spain,2018-01-01,Great Value!,5.0,2018,2
 Spain,2018-01-01,Easy to navigate,5.0,2018,2
-Spain,2017-10-01,No where near as good as Madrids,3.0,2017,1
+Spain,2017-10-01,No where near as good as Madrids,3.0,2017,2
 Spain,2017-12-01,Practical way to move,5.0,2017,2
 Spain,2017-12-01,The best way to get around,5.0,2017,2
 Spain,2017-10-01,For we Brits it's just like being in London.,5.0,2017,2
@@ -3022,7 +3022,7 @@ Spain,2017-07-01,The way to get around.,5.0,2017,2
 Spain,2017-05-01,In Retrospect,5.0,2017,2
 Spain,2017-07-01,Thumbs up for the metro,5.0,2017,2
 Spain,2017-07-01,"Buy a Pass for how many days you are staying, this saves you over £50 each!!",5.0,2017,2
-Spain,2017-06-01,The T10 is your friend,5.0,2017,1
+Spain,2017-06-01,The T10 is your friend,5.0,2017,2
 Spain,2017-05-01,Efficient and inexpensive,5.0,2017,2
 Spain,2017-05-01,Very Efficient,5.0,2017,2
 Spain,2017-05-01,A model for others,5.0,2017,2
@@ -3058,8 +3058,8 @@ United Kingdom,2023-06-01,TfL Contactless does NOT mean Contactless card,1.0,202
 United Kingdom,2023-07-01,Ok,3.0,2023,1
 United Kingdom,2023-07-01,Rubbish,1.0,2023,0
 United Kingdom,2023-04-01,went out of his way,5.0,2023,2
-United Kingdom,2023-02-01,Ulez is destroying businesses,1.0,2023,1
-United Kingdom,2022-12-01,Arnaque,1.0,2022,2
+United Kingdom,2023-02-01,Ulez is destroying businesses,1.0,2023,0
+United Kingdom,2022-12-01,Arnaque,1.0,2022,0
 United Kingdom,2023-02-01,"Horrible service, delays",1.0,2023,0
 United Kingdom,2023-02-01,"Friendly and helpful staff made my trip soooo pleasant, thank you.",5.0,2023,2
 United Kingdom,2022-11-01,Dreadful experience,1.0,2022,0
@@ -3068,13 +3068,13 @@ United Kingdom,2022-12-01,What crap service and leadership,1.0,2022,0
 United Kingdom,2022-12-01,Bring hand sanitizer 😖,1.0,2022,0
 United Kingdom,2023-01-01,Very poor,1.0,2023,0
 United Kingdom,2022-10-01,The worst customer service I have ever received in the nine European countries I’ve visited,1.0,2022,0
-United Kingdom,2022-10-01,Don’t even answer the phone.,1.0,2022,0
+United Kingdom,2022-10-01,Don’t even answer the phone.,1.0,2022,1
 United Kingdom,2022-08-01,Clueless Online Staff and Service,1.0,2022,0
 United Kingdom,2022-08-01,Awful,1.0,2022,0
 United Kingdom,2022-08-01,Strike...,1.0,2022,0
 United Kingdom,2022-07-01,Ignorant and unhelpful,1.0,2022,0
 United Kingdom,2022-06-01,Smokers have no consideration for others,1.0,2022,0
-United Kingdom,2022-02-01,Annoying,1.0,2022,2
+United Kingdom,2022-02-01,Annoying,1.0,2022,0
 United Kingdom,2022-02-01,Excellent public transport system,5.0,2022,2
 United Kingdom,2022-01-01,ABSOLUTE PERFECTION GUARANTEED TO THE VERY HIGHEST STANDARDS,5.0,2022,0
 United Kingdom,2022-01-01,Awful,1.0,2022,0
@@ -3092,32 +3092,32 @@ United Kingdom,2019-12-01,Public transit - Christmas caution,5.0,2019,0
 United Kingdom,2019-10-01,Get a laugh at using your Oyster card properly,5.0,2019,2
 United Kingdom,2019-11-01,Best Transport System,5.0,2019,2
 United Kingdom,2019-12-01,Amazing system:Amazing staff!!!,5.0,2019,2
-United Kingdom,2019-11-01,"""The driver has been instructed to wait at this bus stop to even out the gaps in the service!""",3.0,2019,0
+United Kingdom,2019-11-01,"""The driver has been instructed to wait at this bus stop to even out the gaps in the service!""",3.0,2019,1
 United Kingdom,2019-08-01,Recommendations from an ex-Londoner/frequent visitor,5.0,2019,2
 United Kingdom,2019-03-01,efficient but can cost you.,3.0,2019,2
 United Kingdom,2019-09-01,Oyster card customer service,5.0,2019,2
 United Kingdom,2019-09-01,HELP WAS AT HAND,5.0,2019,2
-United Kingdom,2019-08-01,Impossible to get in touch,1.0,2019,1
+United Kingdom,2019-08-01,Impossible to get in touch,1.0,2019,2
 United Kingdom,2019-06-01,So Easy!,5.0,2019,2
 United Kingdom,2019-07-01,What a fantastic service,5.0,2019,2
 United Kingdom,2019-03-01,Kathlyn - Helpful - Welcoming!,5.0,2019,2
 United Kingdom,2019-04-01,Contactless Card Made Traveling SOOOO Easy!,5.0,2019,2
 United Kingdom,2019-02-01,Unacceptable,1.0,2019,0
 United Kingdom,2019-04-01,Constant Destruction of Roadspace,1.0,2019,0
-United Kingdom,2018-09-01,Not for most tourists - especially handicapped,1.0,2018,2
+United Kingdom,2018-09-01,Not for most tourists - especially handicapped,1.0,2018,0
 United Kingdom,2019-04-01,NOT EVEN WORTH 1 STAR RATING,1.0,2019,0
 United Kingdom,2019-01-01,Bus driver on line 24 provided excellent customer service to elderly passanger,5.0,2019,2
 United Kingdom,2018-12-01,Disgraceful action,3.0,2018,0
-United Kingdom,2018-10-01,Mixed Reviews for Oyster Card,1.0,2018,1
+United Kingdom,2018-10-01,Mixed Reviews for Oyster Card,1.0,2018,2
 United Kingdom,2018-08-01,GREAT transport within Greater London,5.0,2018,2
 United Kingdom,2018-11-01,Horrible customer support,1.0,2018,0
 United Kingdom,2018-10-01,Terrible idea for fare payment,1.0,2018,0
 United Kingdom,2018-07-01,Oyster Card,1.0,2018,2
 United Kingdom,2018-09-01,Time accurate,5.0,2018,2
 United Kingdom,2018-08-01,Made our trip easy!,5.0,2018,2
-United Kingdom,2018-07-01,"SEE IT, SAY IT, NOT sorted",1.0,2018,0
+United Kingdom,2018-07-01,"SEE IT, SAY IT, NOT sorted",1.0,2018,2
 United Kingdom,2018-07-01,Really impressed,5.0,2018,2
-United Kingdom,2018-07-01,Wonderful ground staff,5.0,2018,0
+United Kingdom,2018-07-01,Wonderful ground staff,5.0,2018,2
 United Kingdom,2018-04-01,Go ride with them,5.0,2018,2
 United Kingdom,2018-03-01,Thank you Transport for London!,5.0,2018,2
 Ireland,2023-12-01,The usual horrible service,1.0,2023,0
@@ -3132,7 +3132,7 @@ Ireland,2023-10-01,Helpful staff,5.0,2023,2
 Ireland,2023-10-01,A great way to travel,5.0,2023,2
 Ireland,2023-10-01,Used profelactic 🤢🤢🤮,3.0,2023,2
 Ireland,2023-09-01,"Expensive, outdated, 90s flashback",1.0,2023,0
-Ireland,2023-10-01,Combination of trains and buses,3.0,2023,0
+Ireland,2023-10-01,Combination of trains and buses,3.0,2023,2
 Ireland,2023-10-01,Excellent service,5.0,2023,2
 Ireland,2023-09-01,Railtours Ireland’s Emerald Pullman…a life experience not to be missed!,5.0,2023,0
 Ireland,2023-09-01,Great Value,5.0,2023,2
@@ -3149,14 +3149,14 @@ Ireland,2023-08-01,Train adventure with bikes!!,5.0,2023,2
 Ireland,2023-08-01,Useless booking system,1.0,2023,0
 Ireland,2023-07-01,Irish Rail: You have the technology so USE IT.,1.0,2023,2
 Ireland,2023-07-01,Keep creeps off the trains and stop packing so much people on,1.0,2023,0
-Ireland,2023-07-01,I don’t like society hun,1.0,2023,0
+Ireland,2023-07-01,I don’t like society hun,1.0,2023,2
 Ireland,2023-07-01,Racial Abuse and Aggressive Behavior,1.0,2023,0
 Ireland,2023-07-01,No catering service in first class from Killarney to Dublin- not even water!,1.0,2023,0
 Ireland,2023-07-01,Helpful staff,5.0,2023,2
-Ireland,2023-06-01,"Travel was fine, but areas need work.",3.0,2023,0
+Ireland,2023-06-01,"Travel was fine, but areas need work.",3.0,2023,1
 Ireland,2023-07-01,Hot and overcrowded carriages are the norm. Avoid traveling Mondays and Fridays.,1.0,2023,0
 Ireland,2023-07-01,Absolutely horrendous,1.0,2023,0
-Ireland,2023-06-01,Across country with no toilets!,3.0,2023,0
+Ireland,2023-06-01,Across country with no toilets!,3.0,2023,1
 Ireland,2023-06-01,Irish rail is a disgrace,1.0,2023,0
 Ireland,2023-06-01,The worst rail system in Europe,1.0,2023,0
 Ireland,2023-05-01,Fabulous,5.0,2023,2
@@ -3188,17 +3188,17 @@ Ireland,2022-08-01,No free WiFi available at Connolly station,1.0,2022,0
 Ireland,2022-07-01,Obnoxious staff,1.0,2022,0
 Ireland,2022-07-01,Needed an adult supervisor,3.0,2022,1
 Ireland,2022-06-01,Stag parties!,1.0,2022,0
-Ireland,2022-05-01,The good news is that we were on time at both ends,1.0,2022,2
-Ireland,2022-06-01,Inconsistent service,1.0,2022,0
+Ireland,2022-05-01,The good news is that we were on time at both ends,1.0,2022,1
+Ireland,2022-06-01,Inconsistent service,1.0,2022,2
 Ireland,2022-06-01,Service Standards Rapidly Decreasing,1.0,2022,0
 Ireland,2022-05-01,Rotten train bathroom,1.0,2022,0
 Ireland,2022-06-01,When is a train not a train?,1.0,2022,2
 Ireland,2022-06-01,On time and comfortable but...,3.0,2022,2
-Ireland,2022-05-01,Some areas in need of cleaning,3.0,2022,2
+Ireland,2022-05-01,Some areas in need of cleaning,3.0,2022,1
 Ireland,2022-05-01,A national disgrace,1.0,2022,0
 Ireland,2022-05-01,Booking,1.0,2022,0
 Ireland,2022-05-01,Poor public transport system in Ireland,1.0,2022,2
-Ireland,2022-04-01,Good but ripped off a little,3.0,2022,1
+Ireland,2022-04-01,Good but ripped off a little,3.0,2022,2
 Ireland,2022-03-01,Dublin to Waterford and return,1.0,2022,2
 Ireland,2022-01-01,Extremely good customer service,5.0,2022,2
 Ireland,2022-01-01,Irish rail site,1.0,2022,2
@@ -3206,19 +3206,19 @@ Ireland,2021-12-01,Terrible service,1.0,2021,0
 Ireland,2021-11-01,"Punctual, Comfy, relaxing",5.0,2021,2
 Ireland,2021-11-01,Very very poor and unreliable wifi,1.0,2021,0
 Ireland,2021-11-01,Very poor,1.0,2021,0
-Ireland,2021-10-01,Most unpleasant,1.0,2021,2
+Ireland,2021-10-01,Most unpleasant,1.0,2021,0
 Ireland,2021-10-01,Conductor from Dublin to Cork was so intimidating.,1.0,2021,0
 Ireland,2021-10-01,50/50,1.0,2021,2
 Ireland,2021-10-01,Fantastic customer service provided at the last minute.,5.0,2021,2
 Ireland,2021-10-01,V. Good,5.0,2021,2
 Ireland,2021-10-01,Great staff & service,5.0,2021,2
 Ireland,2021-09-01,Relaxing and great option,5.0,2021,2
-Ireland,2021-07-01,Disappointing travel,1.0,2021,0
-Ireland,2021-07-01,Very dissatisfied,1.0,2021,0
+Ireland,2021-07-01,Disappointing travel,1.0,2021,2
+Ireland,2021-07-01,Very dissatisfied,1.0,2021,2
 Ireland,2021-07-01,Horrendous website,1.0,2021,0
 Ireland,2021-07-01,On time and reliable,5.0,2021,2
 Ireland,2021-07-01,Need improvements,3.0,2021,1
-Ireland,2021-06-01,Average,1.0,2021,0
+Ireland,2021-06-01,Average,1.0,2021,2
 Ireland,2021-02-01,Helpful Staff,5.0,2021,2
 Ireland,2020-10-01,Worth every penny and great option for traveling across Ireland,5.0,2020,2
 Ireland,2020-09-01,Comfortable journey - Travelling in style,5.0,2020,2
@@ -3229,15 +3229,15 @@ Ireland,2020-03-01,Good way to get around Ireland,3.0,2020,2
 Ireland,2019-12-01,Dirty Seats.,3.0,2019,0
 Ireland,2020-02-01,Need to Work on the Small Things,3.0,2020,1
 Ireland,2020-01-01,Disgusting,1.0,2020,0
-Ireland,2020-02-01,Revamp needed,1.0,2020,0
+Ireland,2020-02-01,Revamp needed,1.0,2020,2
 Ireland,2020-02-01,Robbery,1.0,2020,0
 Ireland,2020-02-01,Terrible staff attitude,1.0,2020,0
-Ireland,2020-01-01,Join us in the 21st century,1.0,2020,0
-Ireland,2019-09-01,Ok service,3.0,2019,0
+Ireland,2020-01-01,Join us in the 21st century,1.0,2020,1
+Ireland,2019-09-01,Ok service,3.0,2019,1
 Ireland,2019-12-01,Simply terrible service,1.0,2019,0
 Ireland,2019-10-01,No Refunds under any circumstances,1.0,2019,0
 Ireland,2019-12-01,"Poor service, high price",1.0,2019,0
-Ireland,2019-11-01,Too Often Late,3.0,2019,0
+Ireland,2019-11-01,Too Often Late,3.0,2019,2
 Ireland,2019-11-01,Catering on Irish Rail poor and in need of upgrading!,5.0,2019,0
 Ireland,2019-11-01,Disgraceful,1.0,2019,0
 Ireland,2019-11-01,Booking a seat is a waste of time,1.0,2019,0
@@ -3262,7 +3262,7 @@ Ireland,2019-09-01,Irish Rail Tours,5.0,2019,2
 Ireland,2019-09-01,Overcarried,5.0,2019,2
 Ireland,2019-09-01,Beyond uncomfortable,1.0,2019,0
 Ireland,2019-09-01,"Same ole bad service, rip off prices",1.0,2019,0
-Ireland,2019-09-01,Rip off start to finish,1.0,2019,1
+Ireland,2019-09-01,Rip off start to finish,1.0,2019,0
 Ireland,2019-09-01,First class,1.0,2019,2
 Ireland,2019-08-01,IRELAND BY RAIL,5.0,2019,2
 Ireland,2019-08-01,Bottle Water on Irish Rail,1.0,2019,0
@@ -3277,7 +3277,7 @@ Ireland,2019-07-01,on time and very easy,5.0,2019,2
 Ireland,2019-08-01,Efficient travel,5.0,2019,2
 Ireland,2019-07-01,Loved the train and service,5.0,2019,2
 Ireland,2019-07-01,Very Good Service,5.0,2019,2
-Ireland,2019-07-01,Dirty Toilets no paper no soap,1.0,2019,0
+Ireland,2019-07-01,Dirty Toilets no paper no soap,1.0,2019,1
 Ireland,2019-06-01,Pleasantly surprised,5.0,2019,2
 Ireland,2019-07-01,Excellent,5.0,2019,2
 Ireland,2019-07-01,Terrible exchange policy,1.0,2019,0
@@ -3286,9 +3286,9 @@ Ireland,2019-06-01,Too little info and mediocre service,1.0,2019,0
 Ireland,2019-05-01,Dublin to Belfast-just 2 hours,5.0,2019,2
 Ireland,2019-06-01,Drunks on the train,1.0,2019,0
 Ireland,2019-06-01,Filthy Gents toilet at Heuston station,1.0,2019,0
-Ireland,2019-06-01,choking on diesel fumes,1.0,2019,0
+Ireland,2019-06-01,choking on diesel fumes,1.0,2019,1
 Ireland,2019-05-01,Ring of Kerry Rail tour,5.0,2019,2
-Ireland,2019-06-01,East Coast to West Coast,5.0,2019,1
+Ireland,2019-06-01,East Coast to West Coast,5.0,2019,2
 Ireland,2019-05-01,The Enterprise to Belfast,5.0,2019,2
 Ireland,2019-06-01,Irish Unreliable Rail,1.0,2019,0
 Ireland,2019-06-01,Bad,1.0,2019,0
@@ -3317,12 +3317,12 @@ Ireland,2019-02-01,The only way to go,5.0,2019,2
 Ireland,2019-02-01,Terrible Ryanair meets Fr. Ted,1.0,2019,0
 Ireland,2019-02-01,Polly,5.0,2019,2
 Ireland,2019-02-01,Terrible,1.0,2019,0
-Ireland,2018-11-01,The modest speed seemed to go chime well with the sleepy cows observed in the fields,5.0,2018,2
+Ireland,2018-11-01,The modest speed seemed to go chime well with the sleepy cows observed in the fields,5.0,2018,1
 Ireland,2019-02-01,Irish Rail Is Trash.,1.0,2019,0
 Ireland,2019-02-01,From Maynooth to Wexford and back,3.0,2019,1
 Ireland,2019-01-01,"Comfortable ride, as well as convenient!",5.0,2019,2
 Ireland,2019-01-01,Customer Service,5.0,2019,2
-Ireland,2019-01-01,MAKE SURE TO TAKE YOUR OUTBOUND TICKET FOR RETURN TRIP!,3.0,2019,2
+Ireland,2019-01-01,MAKE SURE TO TAKE YOUR OUTBOUND TICKET FOR RETURN TRIP!,3.0,2019,0
 Ireland,2019-01-01,Terrible,1.0,2019,0
 Ireland,2019-01-01,Limerick to Dublin,1.0,2019,2
 Ireland,2019-01-01,What? Where? When? Huh?,1.0,2019,0
@@ -3357,12 +3357,12 @@ Ireland,2018-07-01,Absolutely terrible,1.0,2018,0
 Ireland,2018-06-01,Mediocre,3.0,2018,1
 Ireland,2018-06-01,"Trains Were On Time, Scenery Was Nice",5.0,2018,2
 Ireland,2018-06-01,Trains to the Greenway - So little Bike carrying capacity,3.0,2018,1
-Ireland,2018-06-01,Great trip but just ok for the price,3.0,2018,2
+Ireland,2018-06-01,Great trip but just ok for the price,3.0,2018,1
 Ireland,2018-05-01,Train to malahide,5.0,2018,2
 Ireland,2018-05-01,Cork to Dublin,5.0,2018,2
 Ireland,2018-06-01,"Thought we were in Bangladesh "" Horrific "".",1.0,2018,0
 Ireland,2018-06-01,Great service,5.0,2018,2
-Ireland,2018-05-01,"Can be good, can be bad",3.0,2018,1
+Ireland,2018-05-01,"Can be good, can be bad",3.0,2018,2
 Ireland,2018-05-01,very relaxing,5.0,2018,2
 Ireland,2018-05-01,Great train service!,5.0,2018,2
 Ireland,2018-05-01,No seat numbers on mallow to tralee train,1.0,2018,0
@@ -3382,21 +3382,21 @@ Ireland,2018-01-01,A good experience using Irish Rail,5.0,2018,2
 Ireland,2017-12-01,CityGold is absolutely scandalous .,1.0,2017,0
 Ireland,2017-12-01,"Poor Service, bus is better",1.0,2017,0
 Ireland,2017-12-01,Too few services. Too expensive.,1.0,2017,0
-Ireland,2017-11-01,Ye fukkin Culty,1.0,2017,1
-Ireland,2017-11-01,Takes all stress driving away,5.0,2017,2
+Ireland,2017-11-01,Ye fukkin Culty,1.0,2017,0
+Ireland,2017-11-01,Takes all stress driving away,5.0,2017,0
 Ireland,2017-11-01,Journey Inspired,5.0,2017,2
 Ireland,2017-10-01,The Way to Go,5.0,2017,2
 Ireland,2017-10-01,First time Irish Rail user...We'll be back,5.0,2017,2
 Ireland,2017-10-01,No Coeliac options and very rough journey,1.0,2017,0
 Ireland,2017-10-01,Very crowded and hard to find seat,1.0,2017,0
-Ireland,2017-09-01,Irish Rail from Killarney Area,5.0,2017,2
+Ireland,2017-09-01,Irish Rail from Killarney Area,5.0,2017,0
 Ireland,2017-09-01,good trip from Rush to Dublin,5.0,2017,2
 Ireland,2017-09-01,Irish Rail from Wexford (O'Hanrahan) Station to Dublin,5.0,2017,2
-Ireland,2017-09-01,First Class train from Dublin to Cork - complete waste of money.,1.0,2017,0
+Ireland,2017-09-01,First Class train from Dublin to Cork - complete waste of money.,1.0,2017,2
 Ireland,2017-09-01,Great tour & fantastic tour guide Rail Tours Ireland trip adviser Andy tour guide,5.0,2017,2
-Ireland,2017-09-01,One the staff bullying a 3 year old boy,1.0,2017,1
+Ireland,2017-09-01,One the staff bullying a 3 year old boy,1.0,2017,0
 Ireland,2017-09-01,Practical Transportation,3.0,2017,2
-Ireland,2017-09-01,Ridiculous Company,1.0,2017,2
+Ireland,2017-09-01,Ridiculous Company,1.0,2017,0
 Ireland,2017-09-01,A great way to travel,5.0,2017,2
 Ireland,2017-09-01,First time,5.0,2017,2
 Ireland,2017-07-01,Day out,5.0,2017,2
@@ -3406,7 +3406,7 @@ Ireland,2017-08-01,Perfect travel!,5.0,2017,2
 Ireland,2017-08-01,"Service great, passengers not so great",5.0,2017,2
 Ireland,2017-08-01,Awful,1.0,2017,0
 Ireland,2017-08-01,Adamstown train station!,5.0,2017,2
-Ireland,2017-07-01,Could do better,3.0,2017,1
+Ireland,2017-07-01,Could do better,3.0,2017,2
 Ireland,2017-08-01,Dodgy tracks!,1.0,2017,0
 Ireland,2017-06-01,Good experience,5.0,2017,2
 Ireland,2017-07-01,"Great until the way back, journey ruined",1.0,2017,2
@@ -3419,7 +3419,7 @@ Ireland,2017-06-01,CONSTANTLY HORRIBLE,1.0,2017,0
 Ireland,2017-05-01,Reservation failed. Had to pay twice for my tickets. Terrible experience.,1.0,2017,0
 Ireland,2017-06-01,Great experience,5.0,2017,2
 Ireland,2017-06-01,speedy intercity transport. comfortable. convenient.,5.0,2017,2
-Ireland,2017-06-01,westport to Dublin train,1.0,2017,0
+Ireland,2017-06-01,westport to Dublin train,1.0,2017,2
 Ireland,2017-05-01,Irish rail efficient way to travel,5.0,2017,2
 Ireland,2017-06-01,Buy your ticket online!!!,1.0,2017,2
 Ireland,2017-06-01,Great service and quality,5.0,2017,2
@@ -3431,10 +3431,10 @@ Ireland,2017-04-01,Comfortable and Inexpensive,5.0,2017,2
 Ireland,2017-04-01,"Pleasant ,Clean and Excellent Layout",5.0,2017,2
 Ireland,2017-03-01,Overcharge American's,1.0,2017,0
 Ireland,2017-04-01,Nice Travel Experience,5.0,2017,2
-Ireland,2017-04-01,Connelly Station to Central Station Belfast,5.0,2017,1
+Ireland,2017-04-01,Connelly Station to Central Station Belfast,5.0,2017,2
 Ireland,2017-04-01,We traveled to Portlaoise,5.0,2017,2
 Ireland,2017-04-01,Overpriced travel,1.0,2017,2
-Ireland,2017-04-01,No information,1.0,2017,2
+Ireland,2017-04-01,No information,1.0,2017,0
 Ireland,2017-03-01,Best rail service in Europe.,5.0,2017,2
 Ireland,2017-03-01,Great service,5.0,2017,2
 Ireland,2017-03-01,Great way to travel,5.0,2017,2
@@ -3448,7 +3448,7 @@ Ireland,2016-09-01,Brutal customer service,1.0,2016,0
 Ireland,2017-01-01,Family Trip,5.0,2017,2
 Ireland,2017-01-01,Very good way to travel,5.0,2017,2
 Ireland,2017-01-01,Trip from Dublin to Cork on Irish Rail,5.0,2017,2
-Ireland,2016-12-01,Daily commute,3.0,2016,1
+Ireland,2016-12-01,Daily commute,3.0,2016,2
 Ireland,2016-11-01,The worlds most miserable ticket agent,1.0,2016,0
 Ireland,2016-11-01,Unhelpful ticket agent,1.0,2016,0
 Ireland,2016-09-01,Killarney to Dublin,5.0,2016,2
@@ -3462,7 +3462,7 @@ Ireland,2016-10-01,Great service,5.0,2016,2
 Ireland,2016-09-01,Good Option for Transportation,5.0,2016,2
 Ireland,2016-09-01,FourTrips and Never More Than Five Minutes Off the Timetable.,5.0,2016,0
 Ireland,2016-10-01,Great,5.0,2016,2
-Ireland,2016-09-01,IrishRail wild Atlantic tour,5.0,2016,2
+Ireland,2016-09-01,IrishRail wild Atlantic tour,5.0,2016,1
 Ireland,2016-09-01,Transit,5.0,2016,2
 Ireland,2016-09-01,Enjoyable,5.0,2016,2
 Ireland,2016-09-01,Comfortable and on time,5.0,2016,2
@@ -3472,11 +3472,11 @@ Ireland,2016-09-01,Getting around Ireland by Train,5.0,2016,2
 Ireland,2016-09-01,DUBLIN TO KILKENNY,5.0,2016,2
 Ireland,2016-08-01,Rail trip from Dublin to Waterford,5.0,2016,2
 Ireland,2016-08-01,Do their best for their customers,5.0,2016,2
-Ireland,2016-08-01,1st class in price only,1.0,2016,0
+Ireland,2016-08-01,1st class in price only,1.0,2016,2
 Ireland,2016-08-01,"Booking doesn't mean u get a seat- get the bus, have some peace",1.0,2016,2
 Ireland,2016-08-01,Filthy Trains make case for car rental,1.0,2016,0
 Ireland,2016-08-01,Couldn't fault it,5.0,2016,2
-Ireland,2016-08-01,Don't drink the coffee on the Enterprise!,5.0,2016,2
+Ireland,2016-08-01,Don't drink the coffee on the Enterprise!,5.0,2016,1
 Ireland,2016-08-01,Good experience,5.0,2016,2
 Ireland,2016-07-01,Great way to travel,5.0,2016,2
 Ireland,2016-07-01,Late,3.0,2016,0
@@ -3493,9 +3493,9 @@ Ireland,2016-05-01,Excellent Service and Comfort,5.0,2016,2
 Ireland,2016-05-01,Comfortable Travel,5.0,2016,2
 Ireland,2016-05-01,The superb enterprise,5.0,2016,2
 Ireland,2016-04-01,On time and reliable,5.0,2016,2
-Ireland,2016-04-01,Keep your ticket,5.0,2016,0
+Ireland,2016-04-01,Keep your ticket,5.0,2016,2
 Ireland,2016-04-01,Dublin to Kilkenny,5.0,2016,2
-Ireland,2016-04-01,Railing to Waterford Ireland - Hare Wins,5.0,2016,2
+Ireland,2016-04-01,Railing to Waterford Ireland - Hare Wins,5.0,2016,0
 Ireland,2016-02-01,Beware,1.0,2016,0
 Ireland,2016-02-01,Avoid,1.0,2016,0
 Ireland,2016-02-01,Dublin Hueston to Waterford,5.0,2016,2
@@ -3519,7 +3519,7 @@ Ireland,2015-08-01,Great seevice,5.0,2015,2
 Ireland,2015-08-01,Trains from Galway a Station,1.0,2015,2
 Ireland,2015-08-01,Day trip on Irish rail🚆,5.0,2015,2
 Ireland,2015-06-01,Better Than Driving...,5.0,2015,2
-Ireland,2015-07-01,Should have gotten the bus!,1.0,2015,0
+Ireland,2015-07-01,Should have gotten the bus!,1.0,2015,2
 Ireland,2015-07-01,A Great Way to Travel,5.0,2015,2
 Ireland,2015-07-01,Darting all the way,5.0,2015,2
 Ireland,2015-07-01,Great way to get from Dublin to Cork,5.0,2015,2
